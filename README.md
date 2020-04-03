@@ -1,0 +1,2 @@
+# UltraPowerSavingMode
+Localization for UltraPowerSavingMode
