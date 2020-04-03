@@ -37,6 +37,10 @@
 "APPS_MANAGER_DESCRIPTION" = "Automatically quit all apps on appswitcher when entering ultra power saving mode.";
 "APPS_MANAGER_ENABLED" = "Quit Apps Enabled";
 
+"FLASHLIGHT" = "Flashlight";
+"FLASHLIGHT_DESCRIPTION" = "Use flashlight while power-saving battery. Please keep in mind, using flashlight for a long time can decrease your battery life quite significant.";
+"FLASHLIGHT_ENABLED" = "Flashlight Enabled";
+
 "ALARM_TIMER_MANAGER" = "Alarm / Timer Manager";
 "ALARM_TIMER_MANAGER_DESCRIPTION" = "Allow alarm or timer to ring when inside ultra power saving mode. You can snooze by pressing volume up, and stop by pressing volume down.";
 "ALARM_ENABLED" = "Alarm Enabled";
