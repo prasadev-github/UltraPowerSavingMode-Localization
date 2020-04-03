@@ -1,6 +1,9 @@
 # UltraPowerSavingMode
 Localization for UltraPowerSavingMode
 
+# Already translated / available languages
+English, Japanese
+
 # How to translate to my local language?
 It's really simple! Here is how to do it:
 - Open Base.lproj and then open one of the .strings file
