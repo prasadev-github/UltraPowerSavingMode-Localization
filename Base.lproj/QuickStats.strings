@@ -1,0 +1,40 @@
+/*
+    UltraPowerSavingMode
+    Language: English
+    Translated by @prasadev_
+    Date: 03 April 2020
+*/
+
+"QUICK_STATS_TITLE" = "Quick Stats";
+
+"DATA_UPDATE" = "Data Update";
+"DATA_UPDATE_DESCRIPTION" = "Static: Data shown on the screen is not updated every second (using less battery). Real-Time: Update the data every second.";
+"DATA_UPDATE_STATIC" = "Static";
+"DATA_UPDATE_REALTIME" = "Real-Time";
+
+"QUICK_STATS_DURATION" = "Quick Stats Duration";
+"QUICK_STATS_DURATION_DESCRIPTION" = "Set duration of showing quick stats data when inside ultra power saving mode. Default 10 seconds.";
+"QUICK_STATS_DURATION_VALUE" = "Animation Duration";
+
+"NEXT_ALARM" = "Next Alarm";
+"NEXT_ALARM_DESCRIPTION" = "Show next alarm detail below current time (if available).";
+"NEXT_ALARM_ENABLED" = "Next Alarm Enabled";
+
+"CALENDAR_UPCOMING_EVENTS" = "Calendar Upcoming Events";
+"CALENDAR_UPCOMING_EVENTS_DESCRIPTION" = "Select maximum days ahead to check for available events.";
+"CALENDAR_UPCOMING_EVENTS_ENABLED" = "Upcoming Events Enabled";
+"CALENDAR_UPCOMING_EVENTS_3DAYS" = "3 Days";
+"CALENDAR_UPCOMING_EVENTS_7DAYS" = "7 Days";
+"CALENDAR_UPCOMING_EVENTS_14DAYS" = "14 Days";
+"CALENDAR_UPCOMING_EVENTS_1MONTH" = "1 Month";
+
+"BATTERY_TEMPERATURE" = "Battery Temperature";
+"BATTERY_TEMPERATURE_DESCRIPTION" = "Choose your prefered battery temperature degrees.";
+"BATTERY_TEMPERATURE_CELCIUS" = "Celcius";
+"BATTERY_TEMPERATURE_FAHRENHEIT" = "Fahrenheit";
+
+"BATTERY_ESTIMATION" = "Battery Estimation (Experimental)";
+"BATTERY_ESTIMATION_DESCRIPTION" = "Estimate battery charging time until full and discharging time until empty. Note: The more you show data the more accurate it gets.";
+"BATTERY_ESTIMATION_ESTIMATION" = "Estimation";
+"BATTERY_ESTIMATION_EXACT_TIME" = "Exact Time";
+"BATTERY_ESTIMATION_BOTH" = "Both";

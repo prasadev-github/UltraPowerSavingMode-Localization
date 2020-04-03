@@ -1,0 +1,76 @@
+/*
+    UltraPowerSavingMode
+    Language: English
+    Translated by @prasadev_
+    Date: 03 April 2020
+*/
+
+"TWEAK_ENABLED" = "Tweak Enabled";
+"ENTER_ULTRAPOWERSAVINGMODE" = "Enter UltraPowerSavingMode Now";
+
+"QUICK_INSTRUCTION" = "Quick Instruction";
+"QUICK_INSTRUCTION_DESCRIPTION" = "Information about how to use the tweak in general.";
+"HOW_TO_USE" = "How to use?";
+
+"QUICK_STATS" = "Quick Stats";
+"QUICK_STATS_DESCRIPTION" = "Show quick glimpse of useful information while inside ultra power saving mode.";
+"QUICK_STATS_ENABLED" = "Quick Stats Enabled";
+"QUICK_STATS_OPTION" = "Quick Stats Options";
+"QUICK_STATS_INSTRUCTION" = "Instructions";
+
+"TWEAK_MANAGER" = "Tweak Manager";
+"TWEAK_MANAGER_DESCRIPTION" = "Selectively disable unused tweaks (preserve battery life) when entering ultra power saving mode.";
+"TWEAK_MANAGER_ENABLED" = "Tweak Manager Enabled";
+"TWEAK_MANAGER_SELECT_TWEAKS" = "Select Tweaks";
+
+"SMART_BATTERY_OPTIMIZER" = "Smart Battery Optimizer";
+"SMART_BATTERY_OPTIMIZER_DESCRIPTION" = "Automatically enter ultra power saving mode based on certain device conditions.";
+"SMART_BATTERY_OPTIMIZER_ENABLED" = "Battery Optimizer Enabled";
+"SMART_BATTERY_OPTIMIZER_CONFIGURATION" = "Configure Options";
+
+"AUTOMATIC_TURN_ON" = "Automatic Turn On";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "Automatically turn the device to normal state when current battery is greater than the battery level you set. This will only work if you enter power saving mode manually (not with smart battery optimizer).";
+"AUTOMATIC_TURN_ON_ENABLED" = "Use Automatic Turn On";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "Battery Level";
+
+"APPS_MANAGER" = "Apps Manager";
+"APPS_MANAGER_DESCRIPTION" = "Automatically quit all apps on appswitcher when entering ultra power saving mode.";
+"APPS_MANAGER_ENABLED" = "Quit Apps Enabled";
+
+"ALARM_TIMER_MANAGER" = "Alarm / Timer Manager";
+"ALARM_TIMER_MANAGER_DESCRIPTION" = "Allow alarm or timer to ring when inside ultra power saving mode. You can snooze by pressing volume up, and stop by pressing volume down.";
+"ALARM_ENABLED" = "Alarm Enabled";
+"TIMER_ENABLED" = "Timer Enabled";
+"ALARM_TIMER_MANAGER_CUSTOM_VOLUME" = "Custom Volume";
+"ALARM_TIMER_MANAGER_VOLUME_VALUE" = "Volume Value";
+
+"ANIMATION_DURATION" = "Animation Duration";
+"ANIMATION_DURATION_DESCRIPTION" = "Configure animation duration when entering ultra power saving mode. Default 2.0, set to 0 if you want to enter ultra power saving mode immediately.";
+"ANIMATION_DURATION_VALUE" = "Animation Duration";
+
+"HAPTIC_FEEDBACK" = "Haptic Feedback (iPhone 6S and newer)";
+"HAPTIC_FEEDBACK_DESCRIPTION" = "Vibrate the device using haptic feedback when the device has sucessfully enter or left ultra power saving mode.";
+"HAPTIC_FEEDBACK_ENABLED" = "Haptic Enabled";
+"HAPTIC_FEEDBACK_TYPE" = "Haptic Type";
+"HAPTIC_FEEDBACK_TEST_HAPTIC_VIBRATION" = "Test Haptic Vibration";
+"HAPTIC_FEEDBACK_TYPE_ONE" = "Type 1";
+"HAPTIC_FEEDBACK_TYPE_TWO" = "Type 2";
+"HAPTIC_FEEDBACK_TYPE_THREE" = "Type 3";
+
+"VIBRATION_FEEDBACK" = "Vibration Feedback (iPhone 6 and older)";
+"VIBRATION_FEEDBACK_DESCRIPTION" = "Only enable this if your device doesn't support haptic feedback or you want to use this kind of vibration, and make sure your vibration setting is on.";
+"VIBRATION_FEEDBACK_ENABLED" = "Use Legacy Vibration";
+"VIBRATION_FEEDBACK_TEST_LEGACY_VIBRATION" = "Test Legacy Vibration";
+
+"OPTIONAL_INTEGRATION" = "Optional Integration";
+"OPTIONAL_INTEGRATION_DESCRIPTION" = "Speak device state with local / siri voices, activate power saving mode remotely, speaker automation and more useful options!";
+"OPTIONAL_INTEGRATION_CHATSPEAKER" = "ChatSpeaker Integration";
+
+"EXTRA" = "Extra";
+"EXTRA_DONATION" = "Donation";
+"EXTRA_PACKAGE_INFORMATION" = "Package Information";
+
+"SUPPORT" = "Support";
+"SUPPORT_SEND_AN_EMAIL" = "Send an Email";
+"SUPPORT_ASK_VIA_TWITTER" = "Ask via Twitter";
+"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "Copy EDID to Clipboard";

@@ -1,0 +1,42 @@
+/*
+    UltraPowerSavingMode
+    Language: English
+    Translated by @prasadev_
+    Date: 03 April 2020
+*/
+
+"BATTERY_OPTIMIZER_TITLE" = "Smart Battery Optimizer";
+
+"WHEN_TO_USE" = "When to use\?";
+"WHEN_TO_USE_DESCRIPTION" = "Choose when you want to automatically enter power saving mode.";
+"WHEN_TO_USE_CHARGING" = "Charging";
+"WHEN_TO_USE_NOT_CHARGING" = "Not Charging";
+"WHEN_TO_USE_BOTH" = "Both";
+"WHEN_TO_USE_USAGE_EXPLANATION" = "Usage Explanation";
+
+"NO_INTERNET" = "No Internet";
+"NO_INTERNET_DESCRIPTION" = "Only enable when there is no internet connection.";
+"NO_INTERNET_ENABLED" = "No Internet Connection";
+
+"MEDIA_PLAYING" = "Media Playing";
+"MEDIA_PLAYING_DESCRIPTION" = "Only enable when any music or media currently playing. This is useful if you often fall asleep when music is playing.";
+"MEDIA_PLAYING_ENABLED" = "Media Playing";
+
+"SCREEN_OFF" = "Screen Off";
+"SCREEN_OFF_DESCRIPTION" = "Only enter ultra power saving mode when the screen is currently off.";
+"SCREEN_OFF_ENABLED" = "Only Screen Off";
+
+"AUTOMATIC_TURN_ON" = "Automatic Turn On";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "Automatically turn the device to normal state when current battery is greater than the battery level you set.";
+"AUTOMATIC_TURN_ON_ENABLED" = "Use Automatic Turn On";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "Battery Level";
+
+"MINIMUM_BATTERY_PERCENTAGE" = "Minimum Battery Percentage";
+"MINIMUM_BATTERY_PERCENTAGE_DESCRIPTION" = "Enter power saving mode when current battery percentage is below your set percentage. Default battery threshold is 5%.";
+"MINIMUM_BATTERY_PERCENTAGE_VALUE" = "Battery Percentage";
+
+"DELAY" = "Delay";
+"DELAY_DESCRIPTION" = "Set delay (in minutes) when device is about to enter ultra power saving mode. Default 2 minutes.";
+
+"NOTE" = "Note: To cancel current delay during countdown, you can press lock button 3 times (iOS 13) or long press the lock button (iOS 12).";
+"EXTRA_NOTE" = "Extra Note: Manually cancelling the delay will postpone delay for 10 minutes (if the condition still met). If you are only using Charging option, unplugging charger during countdown will automatically cancel the delay for 5 minutes (if the condition still met).";
