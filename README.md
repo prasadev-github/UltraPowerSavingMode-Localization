@@ -3,7 +3,7 @@ Localization for UltraPowerSavingMode
 
 # How to translate to my local language?
 It's really simple! Here is how to do it:
-- Open up file Base.lproj and then open one of the .strings file
+- Open Base.lproj and then open one of the .strings file
 - Once you open one of the .strings file, you can start translating it to your native language
 
 Translation Example: 
