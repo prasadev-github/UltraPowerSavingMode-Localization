@@ -6,7 +6,7 @@ It's really simple! Here is how to do it:
 - Open up file Base.lproj and then open one of the .strings file
 - Once you open one of the .strings file, you can start translating it to your native language
 
-Translation Example:
+Translation Example: 
 "TWEAK_ENABLED" = "Tweak Enabled";
 
 Don't remove or change "TWEAK_ENABLED" or text/string on the left. You can only change the text/string on the right side, which is "Tweak Enabled" to your local language.
