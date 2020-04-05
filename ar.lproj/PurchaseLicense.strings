@@ -1,0 +1,36 @@
+/*
+    UltraPowerSavingMode
+    Language: English
+    Translated by @prasadev_
+    Date: 03 April 2020
+*/
+
+"PURCHASE" = "Purchase \(iOS 12 \& 13\)";
+
+"PURCHASE_DESCRIPTION" = "After a successful purchase, please activate your license using \"Activate License\" button below.";
+
+"PURCHASE_LICENSE" = "Buy UltraPowerSavingMode License";
+
+"PURCHASE_FAQS" = "Payment FAQs";
+
+"COUPON_CODE" = "Coupon Code";
+
+"COUPON_CODE_DESCRIPTION" = "Got a coupon code? You can use this button to redeem your coupon.";
+
+"COUPON_CODE_REDEEM" = "Redeem Coupon Code";
+
+"ACTIVATE_LICENSE" = "Activate License";
+
+"ACTIVATE_LICENSE_DESCRIPTION" = "You can use this button to restore or activate your device license.";
+
+"ACTIVATE_LICENSE_BUTTON" = "Activate License";
+
+"SUPPORT" = "Support";
+
+"SUPPORT_HELP" = "View Help Page";
+
+"SUPPORT_SEND_AN_EMAIL" = "Send an Email";
+
+"SUPPORT_ASK_VIA_TWITTER" = "Ask via Twitter";
+
+"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "Copy EDID to Clipboard";
