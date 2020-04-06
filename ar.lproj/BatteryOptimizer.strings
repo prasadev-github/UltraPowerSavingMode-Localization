@@ -20,9 +20,9 @@
 "SCREEN_OFF_ENABLED" = "فقط والشاشة مقفلة";
 
 "AUTOMATIC_TURN_ON" = "التشغيل التلقائي";
-"AUTOMATIC_TURN_ON_DESCRIPTION" = "تشغيل الجهاز في الوضع العادي تلقائيًا عندما تكون نسبة البطارية الحالية أكبر من نسبة البطارية التي قمت بتعيينها.";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "تشغيل الجهاز في الوضع العادي تلقائيًا عندما يكون مستوى البطارية الحالي أعلى من المستوى الذي قمت بتعيينه.";
 "AUTOMATIC_TURN_ON_ENABLED" = "استخدام التشغيل التلقائي";
-"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "نسبة البطارية";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "مستوى البطارية";
 
 "MINIMUM_BATTERY_PERCENTAGE" = "حد نسبة البطارية الأدنى";
 "MINIMUM_BATTERY_PERCENTAGE_DESCRIPTION" = "الدخول إلى وضع توفير الطاقة عندما تكون نسبة البطارية المئوية الحالية أقل من النسبة المئوية التي قمت بتعيينها. حد البطارية الافتراضي هو ٥٪.";
