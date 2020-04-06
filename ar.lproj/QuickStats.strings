@@ -27,7 +27,7 @@
 "BATTERY_TEMPERATURE_FAHRENHEIT" = "فهرنهايت";
 
 "BATTERY_ESTIMATION" = "تقدير البطارية (تجريبي)";
-"BATTERY_ESTIMATION_DESCRIPTION" = "تقدير الوقت المتبقى لشحن البطارية بالكامل والوقت المتبقي لتصبح البطارية فارغة. ملاحظة: كلما عرضت بيانات أكثر كلما أصبح التقدير أدق.";
+"BATTERY_ESTIMATION_DESCRIPTION" = "تقدير الوقت المتبقي لشحن البطارية بالكامل والوقت المتبقي لتصبح البطارية فارغة. ملاحظة: كلما عرضت بيانات أكثر كلما أصبح التقدير أدق.";
 "BATTERY_ESTIMATION_ESTIMATION" = "التقدير";
 "BATTERY_ESTIMATION_EXACT_TIME" = "الوقت بالضبط";
 "BATTERY_ESTIMATION_BOTH" = "الاثنان معًا";
