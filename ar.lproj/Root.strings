@@ -59,15 +59,15 @@
 "VIBRATION_FEEDBACK_ENABLED" = "استخدام الاهتزاز القديم";
 "VIBRATION_FEEDBACK_TEST_LEGACY_VIBRATION" = "تجربة الاهتزاز القديم";
 
-"OPTIONAL_INTEGRATION" = "Optional Integration";
-"OPTIONAL_INTEGRATION_DESCRIPTION" = "Speak device state with local / siri voices, activate power saving mode remotely, speaker automation and more useful options!";
-"OPTIONAL_INTEGRATION_CHATSPEAKER" = "ChatSpeaker Integration";
+"OPTIONAL_INTEGRATION" = "تكامل اختياري";
+"OPTIONAL_INTEGRATION_DESCRIPTION" = "نطق حالة الجهاز بأصوات محلية أو بصوت Siri، تنشيط وضع توفير الطاقة عن بعد، تشغيل آلي للسماعة وخيارات كثيرة أخرى مفيدة!";
+"OPTIONAL_INTEGRATION_CHATSPEAKER" = "تكامل ChatSpeaker";
 
-"EXTRA" = "Extra";
-"EXTRA_DONATION" = "Donation";
-"EXTRA_PACKAGE_INFORMATION" = "Package Information";
+"EXTRA" = "إضافي";
+"EXTRA_DONATION" = "التبرع";
+"EXTRA_PACKAGE_INFORMATION" = "معلومات الحزمة";
 
-"SUPPORT" = "Support";
-"SUPPORT_SEND_AN_EMAIL" = "Send an Email";
-"SUPPORT_ASK_VIA_TWITTER" = "Ask via Twitter";
-"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "Copy EDID to Clipboard";
+"SUPPORT" = "الدعم";
+"SUPPORT_SEND_AN_EMAIL" = "إرسال بريد إلكتروني";
+"SUPPORT_ASK_VIA_TWITTER" = "السؤال عبر تويتر";
+"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "نسخ EDID إلى الحافظة";
