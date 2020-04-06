@@ -3,9 +3,9 @@
 "PURCHASE_LICENSE" = "شراء ترخيص UltraPowerSavingMode";
 "PURCHASE_FAQS" = "أسئلة الدفع الشائعة";
 
-"COUPON_CODE" = "كود الكوبون";
-"COUPON_CODE_DESCRIPTION" = "حصلت على كوبون؟ يمكنك استخدام هذا الزر لتحصيل الكوبون الخاص بك.";
-"COUPON_CODE_REDEEM" = "تحصيل كود الكوبون";
+"COUPON_CODE" = "رمز قسيمة";
+"COUPON_CODE_DESCRIPTION" = "حصلت على قسيمة؟ يمكنك استخدام هذا الزر لتحصيل القسيمة الخاصة بك.";
+"COUPON_CODE_REDEEM" = "تحصيل رمز القسيمة";
 
 "ACTIVATE_LICENSE" = "التنشيط";
 "ACTIVATE_LICENSE_DESCRIPTION" = "يمكنك استخدام هذا الزر لاستعادة أو تنشيط ترخيص جهازك.";
