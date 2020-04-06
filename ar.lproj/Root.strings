@@ -46,10 +46,10 @@
 "ANIMATION_DURATION_VALUE" = "مدة الحركة";
 
 "HAPTIC_FEEDBACK" = "الاستجابة اللمسية (iPhone 6S وأحدث)";
-"HAPTIC_FEEDBACK_DESCRIPTION" = "هز الجهاز باستخدام الاستجابة اللمسية عند دخول الجهاز إلى وضع توفير الطاقة الفائق أو الخروج منه بنجاح.";
+"HAPTIC_FEEDBACK_DESCRIPTION" = "حدوث اهتزاز للجهاز باستخدام الاستجابة اللمسية عند دخول الجهاز إلى وضع توفير الطاقة الفائق أو الخروج منه بنجاح.";
 "HAPTIC_FEEDBACK_ENABLED" = "تفعيل الحس اللمسي";
 "HAPTIC_FEEDBACK_TYPE" = "نوع الحس اللمسي";
-"HAPTIC_FEEDBACK_TEST_HAPTIC_VIBRATION" = "تجربة هزة الحس اللمسي";
+"HAPTIC_FEEDBACK_TEST_HAPTIC_VIBRATION" = "اختبار هزة الحس اللمسي";
 "HAPTIC_FEEDBACK_TYPE_ONE" = "النوع الأول";
 "HAPTIC_FEEDBACK_TYPE_TWO" = "النوع الثاني";
 "HAPTIC_FEEDBACK_TYPE_THREE" = "النوع الثالث;
@@ -57,7 +57,7 @@
 "VIBRATION_FEEDBACK" = "الاستجابة الهزية (iPhone 6 وأقدم)";
 "VIBRATION_FEEDBACK_DESCRIPTION" = "قم بتفعيل هذا الخيار فقط إذا كان جهازك لا يدعم الاستجابة اللمسية أو إذا كنت تريد استخدام هذا النوع من الاهتزاز، وتأكد من أن إعدادات الاهتزاز الخاصة بك مشغلة.";
 "VIBRATION_FEEDBACK_ENABLED" = "استخدام الاهتزاز القديم";
-"VIBRATION_FEEDBACK_TEST_LEGACY_VIBRATION" = "تجربة الاهتزاز القديم";
+"VIBRATION_FEEDBACK_TEST_LEGACY_VIBRATION" = "اختبار الاهتزاز القديم";
 
 "OPTIONAL_INTEGRATION" = "تكامل اختياري";
 "OPTIONAL_INTEGRATION_DESCRIPTION" = "نطق حالة الجهاز بأصوات محلية أو بصوت Siri، تنشيط وضع توفير الطاقة عن بعد، تشغيل آلي للسماعة وخيارات كثيرة أخرى مفيدة!";
