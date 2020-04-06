@@ -16,15 +16,15 @@
 "TWEAK_MANAGER_ENABLED" = "تفعيل إدارة الأداة";
 "TWEAK_MANAGER_SELECT_TWEAKS" = "تحديد أدوات";
 
-"SMART_BATTERY_OPTIMIZER" = "Smart Battery Optimizer";
-"SMART_BATTERY_OPTIMIZER_DESCRIPTION" = "Automatically enter ultra power saving mode based on certain device conditions.";
-"SMART_BATTERY_OPTIMIZER_ENABLED" = "Battery Optimizer Enabled";
-"SMART_BATTERY_OPTIMIZER_CONFIGURATION" = "Configure Options";
+"SMART_BATTERY_OPTIMIZER" = "محسّن البطارية الذكي";
+"SMART_BATTERY_OPTIMIZER_DESCRIPTION" = "الدخول التلقائي إلى وضع توفير الطاقة الفائق اعتمادًا على ظروف معينة للجهاز.";
+"SMART_BATTERY_OPTIMIZER_ENABLED" = "تفعيل محسّن البطارية";
+"SMART_BATTERY_OPTIMIZER_CONFIGURATION" = "ضبط الخيارات";
 
-"AUTOMATIC_TURN_ON" = "Automatic Turn On";
-"AUTOMATIC_TURN_ON_DESCRIPTION" = "Automatically turn the device to normal state when current battery is greater than the battery level you set. This will only work if you enter power saving mode manually (not with smart battery optimizer).";
-"AUTOMATIC_TURN_ON_ENABLED" = "Use Automatic Turn On";
-"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "Battery Level";
+"AUTOMATIC_TURN_ON" = "التشغيل التلقائي";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "تشغيل الجهاز في الوضع العادي تلقائيًا عندما يكون مستوى البطارية الحالي أعلى من المستوى الذي قمت بتعيينه. لن يعمل هذا إلا إذا دخلت في وضع توفير الطاقة الفائق يدويًا (وليس باستخدام محسّن البطارية الذكي).";
+"AUTOMATIC_TURN_ON_ENABLED" = "استخدام التشغيل التلقائي";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "مستوى البطارية";
 
 "APPS_MANAGER" = "Apps Manager";
 "APPS_MANAGER_DESCRIPTION" = "Automatically quit all apps on appswitcher when entering ultra power saving mode.";
