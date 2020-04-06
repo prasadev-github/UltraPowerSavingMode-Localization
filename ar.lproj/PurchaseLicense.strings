@@ -1,18 +1,18 @@
-"PURCHASE" = "Purchase \(iOS 12 \& 13\)";
-"PURCHASE_DESCRIPTION" = "After a successful purchase, please activate your license using \"Activate License\" button below.";
-"PURCHASE_LICENSE" = "Buy UltraPowerSavingMode License";
-"PURCHASE_FAQS" = "Payment FAQs";
+"PURCHASE" = "شراء \(iOS 12\و 13\)";
+"PURCHASE_DESCRIPTION" = "بعد نجاح الشراء، يرجى تنشيط الترخيص باستخدام زر \"تنشيط الترخيص\" أدناه.";
+"PURCHASE_LICENSE" = "شراء ترخيص UltraPowerSavingMode";
+"PURCHASE_FAQS" = "أسئلة الدفع الشائعة";
 
-"COUPON_CODE" = "Coupon Code";
-"COUPON_CODE_DESCRIPTION" = "Got a coupon code? You can use this button to redeem your coupon.";
-"COUPON_CODE_REDEEM" = "Redeem Coupon Code";
+"COUPON_CODE" = "كود الكوبون";
+"COUPON_CODE_DESCRIPTION" = "حصلت على كوبون؟ يمكنك استخدام هذا الزر لتحصيل الكوبون الخاص بك.";
+"COUPON_CODE_REDEEM" = "تحصيل كود الكوبون";
 
-"ACTIVATE_LICENSE" = "Activate License";
-"ACTIVATE_LICENSE_DESCRIPTION" = "You can use this button to restore or activate your device license.";
-"ACTIVATE_LICENSE_BUTTON" = "Activate License";
+"ACTIVATE_LICENSE" = "التنشيط";
+"ACTIVATE_LICENSE_DESCRIPTION" = "يمكنك استخدام هذا الزر لاستعادة أو تنشيط ترخيص جهازك.";
+"ACTIVATE_LICENSE_BUTTON" = "تنشيط الترخيص";
 
-"SUPPORT" = "Support";
-"SUPPORT_HELP" = "View Help Page";
-"SUPPORT_SEND_AN_EMAIL" = "Send an Email";
-"SUPPORT_ASK_VIA_TWITTER" = "Ask via Twitter";
-"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "Copy EDID to Clipboard";
+"SUPPORT" = "الدعم";
+"SUPPORT_HELP" = "عرض صفحة المساعدة";
+"SUPPORT_SEND_AN_EMAIL" = "إرسال بريد إلكتروني";
+"SUPPORT_ASK_VIA_TWITTER" = "السؤال عبر تويتر";
+"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "نسخ EDID إلى الحافظة";
