@@ -1,20 +1,20 @@
-"TWEAK_ENABLED" = "Tweak Enabled";
-"ENTER_ULTRAPOWERSAVINGMODE" = "Enter UltraPowerSavingMode Now";
+"TWEAK_ENABLED" = "تفعيل الأداة";
+"ENTER_ULTRAPOWERSAVINGMODE" = "دخول UltraPowerSavingMode الآن";
 
-"QUICK_INSTRUCTION" = "Quick Instruction";
-"QUICK_INSTRUCTION_DESCRIPTION" = "Information about how to use the tweak in general.";
-"HOW_TO_USE" = "How to use?";
+"QUICK_INSTRUCTION" = "تعليمات سريعة";
+"QUICK_INSTRUCTION_DESCRIPTION" = "معلومات حول كيفية استخدام الأداة بشكل عام.";
+"HOW_TO_USE" = "كيف تُستخدم؟";
 
-"QUICK_STATS" = "Quick Stats";
-"QUICK_STATS_DESCRIPTION" = "Show quick glimpse of useful information while inside ultra power saving mode.";
-"QUICK_STATS_ENABLED" = "Quick Stats Enabled";
-"QUICK_STATS_OPTION" = "Quick Stats Options";
-"QUICK_STATS_INSTRUCTION" = "Instructions";
+"QUICK_STATS" = "إحصائيات سريعة";
+"QUICK_STATS_DESCRIPTION" = "عرض لمحة سريعة من المعلومات المفيدة عندما تكون داخل وضع توفير الطاقة الفائق.";
+"QUICK_STATS_ENABLED" = "تفعيل الإحصائيات السريعة";
+"QUICK_STATS_OPTION" = "خيارات الإحصائيات السريعة";
+"QUICK_STATS_INSTRUCTION" = "تعليمات";
 
-"TWEAK_MANAGER" = "Tweak Manager";
-"TWEAK_MANAGER_DESCRIPTION" = "Selectively disable unused tweaks (preserve battery life) when entering ultra power saving mode.";
-"TWEAK_MANAGER_ENABLED" = "Tweak Manager Enabled";
-"TWEAK_MANAGER_SELECT_TWEAKS" = "Select Tweaks";
+"TWEAK_MANAGER" = "إدارة الأداة";
+"TWEAK_MANAGER_DESCRIPTION" = "تعطيل انتقائي للأدوات غير المستخدمة (الحفاظ على عمر البطارية) عند الدخول في وضع توفير الطاقة الفائق.";
+"TWEAK_MANAGER_ENABLED" = "تفعيل إدارة الأداة";
+"TWEAK_MANAGER_SELECT_TWEAKS" = "تحديد أدوات";
 
 "SMART_BATTERY_OPTIMIZER" = "Smart Battery Optimizer";
 "SMART_BATTERY_OPTIMIZER_DESCRIPTION" = "Automatically enter ultra power saving mode based on certain device conditions.";
