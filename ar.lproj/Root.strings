@@ -26,38 +26,38 @@
 "AUTOMATIC_TURN_ON_ENABLED" = "استخدام التشغيل التلقائي";
 "AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "مستوى البطارية";
 
-"APPS_MANAGER" = "Apps Manager";
-"APPS_MANAGER_DESCRIPTION" = "Automatically quit all apps on appswitcher when entering ultra power saving mode.";
-"APPS_MANAGER_ENABLED" = "Quit Apps Enabled";
+"APPS_MANAGER" = "إدارة التطبيقات";
+"APPS_MANAGER_DESCRIPTION" = "إغلاق كل التطبيقات الموجودة في مبدل التطبيقات تلقائيًا عند الدخول في وضع توفير الطاقة الفائق.";
+"APPS_MANAGER_ENABLED" = "تفعيل إغلاق التطبيقات";
 
-"FLASHLIGHT" = "Flashlight";
-"FLASHLIGHT_DESCRIPTION" = "Use flashlight while power-saving battery. Please keep in mind, using flashlight for a long time can decrease your battery life quite significant.";
-"FLASHLIGHT_ENABLED" = "Flashlight Enabled";
+"FLASHLIGHT" = "المصباح اليدوي";
+"FLASHLIGHT_DESCRIPTION" = "استخدام المصباح اليدوي أثناء توفير طاقة البطارية. يرجى التنبه إلى أن استخدام المصباح اليدوي لفترة طويلة قد يقلل من عمر البطارية بشكل كبير.";
+"FLASHLIGHT_ENABLED" = "تفعيل المصباح اليدوي";
 
-"ALARM_TIMER_MANAGER" = "Alarm / Timer Manager";
-"ALARM_TIMER_MANAGER_DESCRIPTION" = "Allow alarm or timer to ring when inside ultra power saving mode. You can snooze by pressing volume up, and stop by pressing volume down.";
-"ALARM_ENABLED" = "Alarm Enabled";
-"TIMER_ENABLED" = "Timer Enabled";
-"ALARM_TIMER_MANAGER_CUSTOM_VOLUME" = "Custom Volume";
-"ALARM_TIMER_MANAGER_VOLUME_VALUE" = "Volume Value";
+"ALARM_TIMER_MANAGER" = "إدارة المنبه/المؤقت";
+"ALARM_TIMER_MANAGER_DESCRIPTION" = "السماح للمنبه أو المؤقت بالرنين عندما تكون داخل وضع توفير الطاقة الفائق. يمكنك أخذ غفوة عن طريق الضغط على زر رفع مستوى الصوت، والإيقاف عن طريق الضغط على زر خفض مستوى الصوت.";
+"ALARM_ENABLED" = "تفعيل المنبه";
+"TIMER_ENABLED" = "تفعيل المؤقت";
+"ALARM_TIMER_MANAGER_CUSTOM_VOLUME" = "تخصيص مستوى الصوت";
+"ALARM_TIMER_MANAGER_VOLUME_VALUE" = "قيمة مستوى الصوت";
 
-"ANIMATION_DURATION" = "Animation Duration";
-"ANIMATION_DURATION_DESCRIPTION" = "Configure animation duration when entering ultra power saving mode. Default 2.0, set to 0 if you want to enter ultra power saving mode immediately.";
-"ANIMATION_DURATION_VALUE" = "Animation Duration";
+"ANIMATION_DURATION" = "مدة الحركة";
+"ANIMATION_DURATION_DESCRIPTION" = "اضبط مدة الحركة عند الدخول إلى وضع توفير الطاقة الفائق. الافتراضي هو 2.0، قم بتعيينه على 0 إذا أردت الدخول إلى وضع توفير الطاقة الفائق على الفور.";
+"ANIMATION_DURATION_VALUE" = "مدة الحركة";
 
-"HAPTIC_FEEDBACK" = "Haptic Feedback (iPhone 6S and newer)";
-"HAPTIC_FEEDBACK_DESCRIPTION" = "Vibrate the device using haptic feedback when the device has sucessfully enter or left ultra power saving mode.";
-"HAPTIC_FEEDBACK_ENABLED" = "Haptic Enabled";
-"HAPTIC_FEEDBACK_TYPE" = "Haptic Type";
-"HAPTIC_FEEDBACK_TEST_HAPTIC_VIBRATION" = "Test Haptic Vibration";
-"HAPTIC_FEEDBACK_TYPE_ONE" = "Type 1";
-"HAPTIC_FEEDBACK_TYPE_TWO" = "Type 2";
-"HAPTIC_FEEDBACK_TYPE_THREE" = "Type 3";
+"HAPTIC_FEEDBACK" = "الاستجابة اللمسية (iPhone 6S وأحدث)";
+"HAPTIC_FEEDBACK_DESCRIPTION" = "هز الجهاز باستخدام الاستجابة اللمسية عند دخول الجهاز إلى وضع توفير الطاقة الفائق أو الخروج منه بنجاح.";
+"HAPTIC_FEEDBACK_ENABLED" = "تفعيل الحس اللمسي";
+"HAPTIC_FEEDBACK_TYPE" = "نوع الحس اللمسي";
+"HAPTIC_FEEDBACK_TEST_HAPTIC_VIBRATION" = "تجربة هزة الحس اللمسي";
+"HAPTIC_FEEDBACK_TYPE_ONE" = "النوع الأول";
+"HAPTIC_FEEDBACK_TYPE_TWO" = "النوع الثاني";
+"HAPTIC_FEEDBACK_TYPE_THREE" = "النوع الثالث;
 
-"VIBRATION_FEEDBACK" = "Vibration Feedback (iPhone 6 and older)";
-"VIBRATION_FEEDBACK_DESCRIPTION" = "Only enable this if your device doesn't support haptic feedback or you want to use this kind of vibration, and make sure your vibration setting is on.";
-"VIBRATION_FEEDBACK_ENABLED" = "Use Legacy Vibration";
-"VIBRATION_FEEDBACK_TEST_LEGACY_VIBRATION" = "Test Legacy Vibration";
+"VIBRATION_FEEDBACK" = "الاستجابة الهزية (iPhone 6 وأقدم)";
+"VIBRATION_FEEDBACK_DESCRIPTION" = "قم بتفعيل هذا الخيار فقط إذا كان جهازك لا يدعم الاستجابة اللمسية أو إذا كنت تريد استخدام هذا النوع من الاهتزاز، وتأكد من أن إعدادات الاهتزاز الخاصة بك مشغلة.";
+"VIBRATION_FEEDBACK_ENABLED" = "استخدام الاهتزاز القديم";
+"VIBRATION_FEEDBACK_TEST_LEGACY_VIBRATION" = "تجربة الاهتزاز القديم";
 
 "OPTIONAL_INTEGRATION" = "Optional Integration";
 "OPTIONAL_INTEGRATION_DESCRIPTION" = "Speak device state with local / siri voices, activate power saving mode remotely, speaker automation and more useful options!";
