@@ -1,35 +1,35 @@
-"BATTERY_OPTIMIZER_TITLE" = "Smart Battery Optimizer";
+"BATTERY_OPTIMIZER_TITLE" = "محسّن البطارية الذكي";
 
-"WHEN_TO_USE" = "When to use\?";
-"WHEN_TO_USE_DESCRIPTION" = "Choose when you want to automatically enter power saving mode.";
-"WHEN_TO_USE_CHARGING" = "Charging";
-"WHEN_TO_USE_NOT_CHARGING" = "Not Charging";
-"WHEN_TO_USE_BOTH" = "Both";
-"WHEN_TO_USE_USAGE_EXPLANATION" = "Usage Explanation";
+"WHEN_TO_USE" = "متى يجب استخدامه\؟";
+"WHEN_TO_USE_DESCRIPTION" = "اختر متى تريد أن تدخل تلقائيًا في وضع حفظ الطاقة.";
+"WHEN_TO_USE_CHARGING" = "أثناء الشحن";
+"WHEN_TO_USE_NOT_CHARGING" = "أثناء عدم الشحن";
+"WHEN_TO_USE_BOTH" = "الاثنان معًا";
+"WHEN_TO_USE_USAGE_EXPLANATION" = "شرح الاستخدام";
 
-"NO_INTERNET" = "No Internet";
-"NO_INTERNET_DESCRIPTION" = "Only enable when there is no internet connection.";
-"NO_INTERNET_ENABLED" = "No Internet Connection";
+"NO_INTERNET" = "لا يوجد إنترنت";
+"NO_INTERNET_DESCRIPTION" = "التفعيل فقط عندما لا يكون هناك اتصال بالإنترنت.";
+"NO_INTERNET_ENABLED" = "لا يوجد اتصال بالإنترنت";
 
-"MEDIA_PLAYING" = "Media Playing";
-"MEDIA_PLAYING_DESCRIPTION" = "Only enable when any music or media currently playing. This is useful if you often fall asleep when music is playing.";
-"MEDIA_PLAYING_ENABLED" = "Media Playing";
+"MEDIA_PLAYING" = "الوسائط";
+"MEDIA_PLAYING_DESCRIPTION" = "التفعيل فقط عندما تكون هناك أي موسيقى أو وسائط مشغلة حاليًا. هذا الخيار مفيد في حال كنت تنام والموسيقى مشغلة.";
+"MEDIA_PLAYING_ENABLED" = "أثناء تشغيل الوسائط";
 
-"SCREEN_OFF" = "Screen Off";
-"SCREEN_OFF_DESCRIPTION" = "Only enter ultra power saving mode when the screen is currently off.";
-"SCREEN_OFF_ENABLED" = "Only Screen Off";
+"SCREEN_OFF" = "الشاشة";
+"SCREEN_OFF_DESCRIPTION" = "الدخول في وضع حفظ الطاقة الفائق عندما تكون الشاشة مقفلة حاليًا فقط.";
+"SCREEN_OFF_ENABLED" = "فقط والشاشة مقفلة";
 
-"AUTOMATIC_TURN_ON" = "Automatic Turn On";
-"AUTOMATIC_TURN_ON_DESCRIPTION" = "Automatically turn the device to normal state when current battery is greater than the battery level you set.";
-"AUTOMATIC_TURN_ON_ENABLED" = "Use Automatic Turn On";
-"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "Battery Level";
+"AUTOMATIC_TURN_ON" = "التشغيل التلقائي";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "تشغيل الجهاز في الوضع العادي تلقائيًا عندما تكون نسبة البطارية الحالية أكبر من نسبة البطارية التي قمت بتعيينها.";
+"AUTOMATIC_TURN_ON_ENABLED" = "استخدام التشغيل التلقائي";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "نسبة البطارية";
 
-"MINIMUM_BATTERY_PERCENTAGE" = "Minimum Battery Percentage";
-"MINIMUM_BATTERY_PERCENTAGE_DESCRIPTION" = "Enter power saving mode when current battery percentage is below your set percentage. Default battery threshold is 5%.";
-"MINIMUM_BATTERY_PERCENTAGE_VALUE" = "Battery Percentage";
+"MINIMUM_BATTERY_PERCENTAGE" = "حد نسبة البطارية الأدنى";
+"MINIMUM_BATTERY_PERCENTAGE_DESCRIPTION" = "الدخول إلى وضع توفير الطاقة عندما تكون نسبة البطارية المئوية الحالية أقل من النسبة المئوية التي قمت بتعيينها. حد البطارية الافتراضي هو ٥٪.";
+"MINIMUM_BATTERY_PERCENTAGE_VALUE" = "نسبة البطارية المئوية";
 
-"DELAY" = "Delay";
-"DELAY_DESCRIPTION" = "Set delay (in minutes) when device is about to enter ultra power saving mode. Default 2 minutes.";
+"DELAY" = "التأخير";
+"DELAY_DESCRIPTION" = "قم بتعيين تأخير (بالدقائق) عندما يكون الجهاز على وشك الدخول في وضع حفظ الطاقة الفائق. الافتراضي هو دقيقتين.";
 
-"NOTE" = "Note: To cancel current delay during countdown, you can press lock button 3 times (iOS 13) or long press the lock button (iOS 12).";
-"EXTRA_NOTE" = "Extra Note: Manually cancelling the delay will postpone delay for 10 minutes (if the condition still met). If you are only using Charging option, unplugging charger during countdown will automatically cancel the delay for 5 minutes (if the condition still met).";
+"NOTE" = "ملاحظة: لإلغاء التأخير الحالي أثناء العد التنازلي، يمكنك الضغط على زر القفل ٣ مرات (iOS 13) أو الضغط مطولًا على زر القفل (iOS 12).";
+"EXTRA_NOTE" = "ملاحظة إضافية: سيؤدي إلغاء التأخير يدويًا إلى تأجيل التأخير لمدة ١٠ دقائق (إذا كان الشرط مازال مستوفى). إذا كنت تستخدم خيار الر أثناء الشحن فقط فسيؤدي فصل الشاحن أثناء العد التنازلي إلى إلغاء التأخير تلقائيًا لمدة ٥ داقائق (إدا كان الشرط مازال مستوفى).";
