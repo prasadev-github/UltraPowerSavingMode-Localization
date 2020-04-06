@@ -1,7 +1,7 @@
 "BATTERY_OPTIMIZER_TITLE" = "محسّن البطارية الذكي";
 
 "WHEN_TO_USE" = "متى يجب استخدامه\؟";
-"WHEN_TO_USE_DESCRIPTION" = "اختر متى تريد أن تدخل تلقائيًا في وضع حفظ الطاقة.";
+"WHEN_TO_USE_DESCRIPTION" = "اختر متى تريد أن تدخل تلقائيًا في وضع توفير الطاقة.";
 "WHEN_TO_USE_CHARGING" = "أثناء الشحن";
 "WHEN_TO_USE_NOT_CHARGING" = "أثناء عدم الشحن";
 "WHEN_TO_USE_BOTH" = "الاثنان معًا";
@@ -16,7 +16,7 @@
 "MEDIA_PLAYING_ENABLED" = "أثناء تشغيل الوسائط";
 
 "SCREEN_OFF" = "الشاشة";
-"SCREEN_OFF_DESCRIPTION" = "الدخول في وضع حفظ الطاقة الفائق عندما تكون الشاشة مقفلة حاليًا فقط.";
+"SCREEN_OFF_DESCRIPTION" = "الدخول في وضع توفير الطاقة الفائق عندما تكون الشاشة مقفلة حاليًا فقط.";
 "SCREEN_OFF_ENABLED" = "فقط والشاشة مقفلة";
 
 "AUTOMATIC_TURN_ON" = "التشغيل التلقائي";
