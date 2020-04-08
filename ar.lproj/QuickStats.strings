@@ -1,0 +1,33 @@
+"QUICK_STATS_TITLE" = "إحصائيات سريعة";
+
+"DATA_UPDATE" = "تاريخ التحديث";
+"DATA_UPDATE_DESCRIPTION" = "ساكن: لا يتم تحديث البيانات المعروضة على الشاشة كل ثانية (استهلاك بطارية أقل). وقت حقيقي: تحديث البيانات كل ثانية.";
+"DATA_UPDATE_STATIC" = "ساكن";
+"DATA_UPDATE_REALTIME" = "وقت حقيقي;
+
+"QUICK_STATS_DURATION" = "مدة زمنية لإحصائيات سريعة";
+"QUICK_STATS_DURATION_DESCRIPTION" = "قم بتعيين مدة زمنية لعرض إحصائيات بيانات سريعة عندما تكون في وضع حفظ الطاقة الفائق. الافتراضي هو ١٠ ثوانِ.";
+"QUICK_STATS_DURATION_VALUE" = "مدة الحركة";
+
+"NEXT_ALARM" = "التنبيه التالي";
+"NEXT_ALARM_DESCRIPTION" = "إظهار تفاصيل التنبيه التالي أسفل الوقت الحالي (إذا كان متاحًا).";
+"NEXT_ALARM_ENABLED" = "تفعيل التنبيه التالي";
+
+"CALENDAR_UPCOMING_EVENTS" = "أحداث التقويم القادمة";
+"CALENDAR_UPCOMING_EVENTS_DESCRIPTION" = "حدد حد الأيام الأقصى قبل التحقق من الأحداث المتاحة.";
+"CALENDAR_UPCOMING_EVENTS_ENABLED" = "تفعيل الأحداث القادمة";
+"CALENDAR_UPCOMING_EVENTS_3DAYS" = "٣ أيام";
+"CALENDAR_UPCOMING_EVENTS_7DAYS" = "٧ أيام";
+"CALENDAR_UPCOMING_EVENTS_14DAYS" = "١٤ يوم";
+"CALENDAR_UPCOMING_EVENTS_1MONTH" = "شهر";
+
+"BATTERY_TEMPERATURE" = "درجة حرارة البطارية";
+"BATTERY_TEMPERATURE_DESCRIPTION" = "اختر مقياس درجة حرارة البطارية المفضل لديك.";
+"BATTERY_TEMPERATURE_CELCIUS" = "مئوية";
+"BATTERY_TEMPERATURE_FAHRENHEIT" = "فهرنهايت";
+
+"BATTERY_ESTIMATION" = "تقدير البطارية (تجريبي)";
+"BATTERY_ESTIMATION_DESCRIPTION" = "تقدير الوقت المتبقي لشحن البطارية بالكامل والوقت المتبقي لتصبح البطارية فارغة. ملاحظة: كلما عرضت بيانات أكثر كلما أصبح التقدير أدق.";
+"BATTERY_ESTIMATION_ESTIMATION" = "التقدير";
+"BATTERY_ESTIMATION_EXACT_TIME" = "الوقت بالضبط";
+"BATTERY_ESTIMATION_BOTH" = "الاثنان معًا";

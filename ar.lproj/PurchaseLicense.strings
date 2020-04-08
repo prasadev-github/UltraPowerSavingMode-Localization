@@ -1,0 +1,18 @@
+"PURCHASE" = "شراء \(iOS 12\و 13\)";
+"PURCHASE_DESCRIPTION" = "بعد نجاح الشراء، يرجى تنشيط الترخيص باستخدام زر \"تنشيط الترخيص\" أدناه.";
+"PURCHASE_LICENSE" = "شراء ترخيص UltraPowerSavingMode";
+"PURCHASE_FAQS" = "أسئلة الدفع الشائعة";
+
+"COUPON_CODE" = "رمز قسيمة";
+"COUPON_CODE_DESCRIPTION" = "حصلت على قسيمة؟ يمكنك استخدام هذا الزر لتحصيل القسيمة الخاصة بك.";
+"COUPON_CODE_REDEEM" = "تحصيل رمز القسيمة";
+
+"ACTIVATE_LICENSE" = "التنشيط";
+"ACTIVATE_LICENSE_DESCRIPTION" = "يمكنك استخدام هذا الزر لاستعادة أو تنشيط ترخيص جهازك.";
+"ACTIVATE_LICENSE_BUTTON" = "تنشيط الترخيص";
+
+"SUPPORT" = "الدعم";
+"SUPPORT_HELP" = "عرض صفحة المساعدة";
+"SUPPORT_SEND_AN_EMAIL" = "إرسال بريد إلكتروني";
+"SUPPORT_ASK_VIA_TWITTER" = "السؤال عبر تويتر";
+"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "نسخ EDID إلى الحافظة";
