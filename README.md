@@ -2,7 +2,7 @@
 Localization for UltraPowerSavingMode
 
 # Already translated / available languages
-English, Bahasa Indonesia, Japanese, Turkish
+English, Bahasa Indonesia, Japanese, Turkish, Arabic, Spanish, Chinese (Simplified)
 
 # How to translate to my local language?
 It's really simple! Here is how to do it:
