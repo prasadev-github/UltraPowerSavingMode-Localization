@@ -5,7 +5,7 @@
 "DATA_UPDATE_STATIC" = "ساكن";
 "DATA_UPDATE_REALTIME" = "وقت حقيقي;
 
-"QUICK_STATS_DURATION" = "مدة زمنية لإحصائيات سريعة";
+"QUICK_STATS_DURATION" = "المدة الزمنية للإحصائيات السريعة";
 "QUICK_STATS_DURATION_DESCRIPTION" = "قم بتعيين مدة زمنية لعرض إحصائيات بيانات سريعة عندما تكون في وضع حفظ الطاقة الفائق. الافتراضي هو ١٠ ثوانِ.";
 "QUICK_STATS_DURATION_VALUE" = "مدة الحركة";
 
