@@ -1,0 +1,42 @@
+/*
+    UltraPowerSavingMode
+    Language: Chinese
+    Translated by @yang_harapeko
+    Date: 05 April 2020
+*/
+
+"BATTERY_OPTIMIZER_TITLE" = "智能电池优化";
+
+"WHEN_TO_USE" = "在什么时候使用？";
+"WHEN_TO_USE_DESCRIPTION" = "选择在何时要自动进入省电模式。";
+"WHEN_TO_USE_CHARGING" = "充电时";
+"WHEN_TO_USE_NOT_CHARGING" = "未充电时";
+"WHEN_TO_USE_BOTH" = "同时";
+"WHEN_TO_USE_USAGE_EXPLANATION" = "使用说明";
+
+"NO_INTERNET" = "无网络";
+"NO_INTERNET_DESCRIPTION" = "仅在无网络连接时使用。";
+"NO_INTERNET_ENABLED" = "无网络连接";
+
+"MEDIA_PLAYING" = "播放中";
+"MEDIA_PLAYING_DESCRIPTION" = "仅在当前正在播放音乐或媒体时启用。 如果您经常在音乐播放过程中入睡，这个功能会显得非常有用。";
+"MEDIA_PLAYING_ENABLED" = "媒体播放中";
+
+"SCREEN_OFF" = "屏幕关闭";
+"SCREEN_OFF_DESCRIPTION" = "仅在屏幕当前关闭时进入超省电模式。";
+"SCREEN_OFF_ENABLED" = "仅在当前屏幕关闭";
+
+"AUTOMATIC_TURN_ON" = "自动开启";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "当电池电量超过您设置的电池电量时，自动将设备切换至正常状态。";
+"AUTOMATIC_TURN_ON_ENABLED" = "使用自动开启";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "电池电量";
+
+"MINIMUM_BATTERY_PERCENTAGE" = "最低电池电量百分比";
+"MINIMUM_BATTERY_PERCENTAGE_DESCRIPTION" = "当电池电量低于您设置的百分比时，自动将设备切换至省电模式。默认电池电量阈值为5%。";
+"MINIMUM_BATTERY_PERCENTAGE_VALUE" = "电池电量百分比";
+
+"DELAY" = "倒计时";
+"DELAY_DESCRIPTION" = "设置设备在延迟时间后进入超级省电模式（以分钟为单位）。默认2分钟。";
+
+"NOTE" = "注意：当需要取消进入省电模式的倒计时时，您可以按下3次电源按钮（iOS13）或长按电源按钮（iOS12）。";
+"EXTRA_NOTE" = "额外注意: 手动取消倒计时将会设置本次倒计时为10分钟（如果条件仍然满足）。如果您仅使用“充电时”选项时，则在倒计时期间拔出充电器会自动取消5分钟的倒计时（如果仍然仍然满足）。";

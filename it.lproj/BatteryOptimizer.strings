@@ -1,0 +1,42 @@
+/*
+    UltraPowerSavingMode
+    Language: Italian
+    Translated by @SAzzinelli
+    Date: 08 April 2020
+*/
+
+"BATTERY_OPTIMIZER_TITLE" = "Smart Battery Optimizer";
+
+"WHEN_TO_USE" = "Quando usarlo\?";
+"WHEN_TO_USE_DESCRIPTION" = "Scegli quando entrare automaticamente in risparmio energetico.";
+"WHEN_TO_USE_CHARGING" = "In carica";
+"WHEN_TO_USE_NOT_CHARGING" = "Non in carica";
+"WHEN_TO_USE_BOTH" = "Entrambi";
+"WHEN_TO_USE_USAGE_EXPLANATION" = "Spiegazione modalità";
+
+"NO_INTERNET" = "No Internet";
+"NO_INTERNET_DESCRIPTION" = "Attiva solo quando non c'è connessione ad Internet.";
+"NO_INTERNET_ENABLED" = "No connessione Internet";
+
+"MEDIA_PLAYING" = "In Riproduzione";
+"MEDIA_PLAYING_DESCRIPTION" = "Attiva solo quando è in riproduzione musica o altri media. É utile quando ti addormenti spesso con la musica in riproduzione.";
+"MEDIA_PLAYING_ENABLED" = "In Riproduzione";
+
+"SCREEN_OFF" = "Schermo Spento";
+"SCREEN_OFF_DESCRIPTION" = "Attiva Ultra Power Save Mode solo quando lo schermo è spento.";
+"SCREEN_OFF_ENABLED" = "Solo Schermo Spento";
+
+"AUTOMATIC_TURN_ON" = "Attiva Automaticamente";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "Torna automaticamente alla Modalità Normale quando la tua percentuale batteria è maggiore di quella impostata.";
+"AUTOMATIC_TURN_ON_ENABLED" = "Attiva Automaticamente";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "Livello Batteria";
+
+"MINIMUM_BATTERY_PERCENTAGE" = "Percentuale Batteria Minima";
+"MINIMUM_BATTERY_PERCENTAGE_DESCRIPTION" = "Entra in Risparmio Energetico quando la percentuale batteria è minore di quella impostata. Di default è su 5%.";
+"MINIMUM_BATTERY_PERCENTAGE_VALUE" = "Percentuale Batteria";
+
+"DELAY" = "Ritardo";
+"DELAY_DESCRIPTION" = "Imposta un ritardo (in minuti) per entrare in modalità risparmio. Default 2 minuti.";
+
+"NOTE" = "Nota: Per cancellare il ritardo ,durante il conto alla rovescia, puoi premere 3 volte il tasto Power (iOS 13) o tenerlo premuto (iOS 12).";
+"EXTRA_NOTE" = "Nota Extra: Cancellare manualmente il ritardo lo posporrà di 10 minuti (se vi sono le condizioni). Se stai usando In carica, staccarlo dalla carica durante il conto alla rovescia cancellerà automaticamente il ritardo per 5 minuti (se vi sono le condizioni).";

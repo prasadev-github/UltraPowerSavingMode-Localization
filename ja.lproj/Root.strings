@@ -1,0 +1,86 @@
+/*
+    UltraPowerSavingMode
+    Language: Japanese
+    Translated by @jayguar1206
+    Date: 03 April 2020
+*/
+
+"TWEAK_ENABLED" = "微調整が有効";
+"ENTER_ULTRAPOWERSAVINGMODE" = "今すぐUltraPowerSavingModeに入る";
+
+"QUICK_INSTRUCTION" = "クイックインストラクション";
+"QUICK_INSTRUCTION_DESCRIPTION" = "ツイークの一般的な使用方法に関する情報。";
+"HOW_TO_USE" = "使い方？";
+
+"QUICK_STATS" = "クイック統計";
+"QUICK_STATS_DESCRIPTION" = "超省電力モードで役立つ情報を簡単に確認できます。";
+"QUICK_STATS_ENABLED" = "クイック統計が有効";
+"QUICK_STATS_OPTION" = "クイック統計オプション";
+"QUICK_STATS_INSTRUCTION" = "指示";
+
+"TWEAK_MANAGER" = "微調整マネージャー";
+"TWEAK_MANAGER_DESCRIPTION" = "超省電力モードに入るときに、未使用の調整を選択的に無効にします（バッテリーの寿命を維持）。";
+"TWEAK_MANAGER_ENABLED" = "微調整マネージャーが有効";
+"TWEAK_MANAGER_SELECT_TWEAKS" = "ツイークを選択";
+
+"SMART_BATTERY_OPTIMIZER" = "スマートバッテリーオプティマイザー";
+"SMART_BATTERY_OPTIMIZER_DESCRIPTION" = "特定のデバイスの状態に基づいて、自動的に超省電力モードに入ります。";
+"SMART_BATTERY_OPTIMIZER_ENABLED" = "バッテリーオプティマイザーが有効";
+"SMART_BATTERY_OPTIMIZER_CONFIGURATION" = "オプションの構成";
+
+"AUTOMATIC_TURN_ON" = "自動電源オン";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "現在のバッテリーが設定したバッテリーレベルよりも大きい場合、デバイスを自動的に通常の状態にします。これは、スマートバッテリーオプティマイザーを使用せずに手動で省電力モードに入った場合にのみ機能します。";
+"AUTOMATIC_TURN_ON_ENABLED" = "自動電源オンを使用";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "バッテリーレベル";
+
+"APPS_MANAGER" = "アプリマネージャ";
+"APPS_MANAGER_DESCRIPTION" = "超省電力モードに入ると、アプリスイッチャー上のすべてのアプリを自動的に終了します。";
+"APPS_MANAGER_ENABLED" = "アプリを終了して有効化";
+
+"FLASHLIGHT" = "懐中電灯";
+"FLASHLIGHT_DESCRIPTION" = "バッテリーの電力を節約しながら懐中電灯を使用します。 懐中電灯を長時間使用すると、バッテリーの寿命が大幅に短くなる可能性があることに注意してください。";
+"FLASHLIGHT_ENABLED" = "懐中電灯が有効";
+
+"RESULT_NOTIFICATION" = "結果通知";
+"RESULT_NOTIFICATION_DESCRIPTION" = "省電力中にバッテリーの使用時間と充電時間を含む通知アラートを表示します。";
+"RESULT_NOTIFICATION_ENABLED" = "結果通知が有効";
+"RESULT_NOTIFICATION_TYPE_ONE" = "お知らせ";
+"RESULT_NOTIFICATION_TYPE_TWO" = "アラート";
+
+"ALARM_TIMER_MANAGER" = "アラーム/タイマーマネージャー";
+"ALARM_TIMER_MANAGER_DESCRIPTION" = "超省電力モード中にアラームまたはタイマーを鳴らすことを許可します。音量を上げるとスヌーズし、音量を下げると停止できます。";
+"ALARM_ENABLED" = "アラーム有効";
+"TIMER_ENABLED" = "タイマー有効";
+"ALARM_TIMER_MANAGER_CUSTOM_VOLUME" = "カスタムボリューム";
+"ALARM_TIMER_MANAGER_VOLUME_VALUE" = "ボリューム値";
+
+"ANIMATION_DURATION" = "アニメーション期間";
+"ANIMATION_DURATION_DESCRIPTION" = "超省電力モードに入るときのアニメーション期間を設定。デフォルト2.0、超省電力モードにすぐに入る場合は0に設定。";
+"ANIMATION_DURATION_VALUE" = "アニメーション期間";
+
+"HAPTIC_FEEDBACK" = "触覚フィードバック（iPhone 6S以降）";
+"HAPTIC_FEEDBACK_DESCRIPTION" = "デバイスが超省電力モードに正常に移行または終了したときに、触覚フィードバックを使用してデバイスを振動させます。";
+"HAPTIC_FEEDBACK_ENABLED" = "触覚対応";
+"HAPTIC_FEEDBACK_TYPE" = "触覚タイプ";
+"HAPTIC_FEEDBACK_TEST_HAPTIC_VIBRATION" = "触覚振動をテスト";
+"HAPTIC_FEEDBACK_TYPE_ONE" = "タイプ1";
+"HAPTIC_FEEDBACK_TYPE_TWO" = "タイプ2";
+"HAPTIC_FEEDBACK_TYPE_THREE" = "タイプ3";
+
+"VIBRATION_FEEDBACK" = "振動フィードバック（iPhone 6以前）";
+"VIBRATION_FEEDBACK_DESCRIPTION" = "デバイスが触覚フィードバックをサポートしていない場合、またはこの種類のバイブレーションを使用する場合にのみ有効にし、バイブレーション設定がオンになっていることを確認してください。";
+"VIBRATION_FEEDBACK_ENABLED" = "従​​来のバイブレーションを使用";
+"VIBRATION_FEEDBACK_TEST_LEGACY_VIBRATION" = "従​​来の振動をテスト";
+
+"OPTIONAL_INTEGRATION" = "オプションの統合";
+"OPTIONAL_INTEGRATION_DESCRIPTION" = "ローカル/ siriの音声でデバイスの状態を読み上げ、リモートで省電力モードを有効にして、スピーカーの自動化とより便利なオプションを有効にしてください！";
+"OPTIONAL_INTEGRATION_CHATSPEAKER" = "ChatSpeaker統合";
+
+"EXTRA" = "追加";
+"EXTRA_DONATION" = "寄付";
+"EXTRA_PACKAGE_INFORMATION" = "パッケージ情報";
+
+"SUPPORT" = "サポート";
+"SUPPORT_SEND_AN_EMAIL" = "メールを送信";
+"SUPPORT_ASK_VIA_TWITTER" = "Twitter経由で質問する";
+"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "EDIDをクリップボードにコピー";

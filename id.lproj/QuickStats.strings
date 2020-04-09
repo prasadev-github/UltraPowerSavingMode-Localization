@@ -1,0 +1,40 @@
+/*
+    UltraPowerSavingMode
+    Language: Indonesia
+    Translated by @prasadev_
+    Date: 03 April 2020
+*/
+
+"QUICK_STATS_TITLE" = "Statistik Cepat";
+
+"DATA_UPDATE" = "Pembaruan Data";
+"DATA_UPDATE_DESCRIPTION" = "Statis: Data yang ditampilkan di layar tidak diperbarui setiap detik (menggunakan baterai lebih sedikit). Real-Time: Perbarui data setiap detik.";
+"DATA_UPDATE_STATIC" = "Statis";
+"DATA_UPDATE_REALTIME" = "Real-Time";
+
+"QUICK_STATS_DURATION" = "Durasi Statistik Cepat";
+"QUICK_STATS_DURATION_DESCRIPTION" = "Setel durasi untuk menampilkan data statistik cepat saat berada dalam mode hemat daya ultra. Standarnya 10 detik.";
+"QUICK_STATS_DURATION_VALUE" = "Durasi Animasi";
+
+"NEXT_ALARM" = "Alarm Selanjutnya";
+"NEXT_ALARM_DESCRIPTION" = "Tampilkan detail alarm berikutnya di bawah waktu saat ini (jika tersedia).";
+"NEXT_ALARM_ENABLED" = "Alarm Selanjutnya Diaktifkan";
+
+"CALENDAR_UPCOMING_EVENTS" = "Kalender Acara Mendatang";
+"CALENDAR_UPCOMING_EVENTS_DESCRIPTION" = "Pilih hari maksimum ke depan untuk memeriksa acara yang tersedia.";
+"CALENDAR_UPCOMING_EVENTS_ENABLED" = "Acara Mendatang Diaktifkan";
+"CALENDAR_UPCOMING_EVENTS_3DAYS" = "3 Hari";
+"CALENDAR_UPCOMING_EVENTS_7DAYS" = "7 Hari";
+"CALENDAR_UPCOMING_EVENTS_14DAYS" = "14 Hari";
+"CALENDAR_UPCOMING_EVENTS_1MONTH" = "1 Bulan";
+
+"BATTERY_TEMPERATURE" = "Suhu Baterai";
+"BATTERY_TEMPERATURE_DESCRIPTION" = "Pilih tipe derajat suhu baterai pilihan Anda.";
+"BATTERY_TEMPERATURE_CELCIUS" = "Celcius";
+"BATTERY_TEMPERATURE_FAHRENHEIT" = "Fahrenheit";
+
+"BATTERY_ESTIMATION" = "Estimasi Baterai (Eksperimental)";
+"BATTERY_ESTIMATION_DESCRIPTION" = "Perkirakan waktu pengisian baterai hingga penuh dan waktu pemakaian hingga kosong. Catatan: Semakin banyak Anda menampilkan data, semakin akurat hasilnya.";
+"BATTERY_ESTIMATION_ESTIMATION" = "Perkiraan";
+"BATTERY_ESTIMATION_EXACT_TIME" = "Waktu Tepatnya";
+"BATTERY_ESTIMATION_BOTH" = "Keduanya";

@@ -1,0 +1,40 @@
+/*
+    UltraPowerSavingMode
+    Language: Chinese
+    Translated by @yang_harapeko
+    Date: 05 April 2020
+*/
+
+"QUICK_STATS_TITLE" = "快速统计";
+
+"DATA_UPDATE" = "数据更新";
+"DATA_UPDATE_DESCRIPTION" = "静态：屏幕上显示的数据不会每秒更新（耗电量更少）。实时：每秒更新数据。";
+"DATA_UPDATE_STATIC" = "静态";
+"DATA_UPDATE_REALTIME" = "实时";
+
+"QUICK_STATS_DURATION" = "快速统计持续时间";
+"QUICK_STATS_DURATION_DESCRIPTION" = "设置在超级省电模式下显示快速统计数据的持续时间。默认10秒。";
+"QUICK_STATS_DURATION_VALUE" = "动画时长";
+
+"NEXT_ALARM" = "下一个闹钟";
+"NEXT_ALARM_DESCRIPTION" = "在当前时间下方显示下一个闹钟的详细信息（如果存在）。";
+"NEXT_ALARM_ENABLED" = "开启显示下一个闹钟";
+
+"CALENDAR_UPCOMING_EVENTS" = "下个日程";
+"CALENDAR_UPCOMING_EVENTS_DESCRIPTION" = "选择最长时间来检查下个日程";
+"CALENDAR_UPCOMING_EVENTS_ENABLED" = "开启下个日程";
+"CALENDAR_UPCOMING_EVENTS_3DAYS" = "最近3天";
+"CALENDAR_UPCOMING_EVENTS_7DAYS" = "最近7天";
+"CALENDAR_UPCOMING_EVENTS_14DAYS" = "最近14天";
+"CALENDAR_UPCOMING_EVENTS_1MONTH" = "最近一个月";
+
+"BATTERY_TEMPERATURE" = "电池温度";
+"BATTERY_TEMPERATURE_DESCRIPTION" = "请选择您喜欢的电池温度计量单位";
+"BATTERY_TEMPERATURE_CELCIUS" = "摄氏温度";
+"BATTERY_TEMPERATURE_FAHRENHEIT" = "华氏温度";
+
+"BATTERY_ESTIMATION" = "电池估算（实验功能）";
+"BATTERY_ESTIMATION_DESCRIPTION" = "估计电池充满电之前的充电时间，及直到电量耗尽为止的放电时间。注意：此功能使用的越频繁，数据越准确。";
+"BATTERY_ESTIMATION_ESTIMATION" = "估算";
+"BATTERY_ESTIMATION_EXACT_TIME" = "实际";
+"BATTERY_ESTIMATION_BOTH" = "同时";

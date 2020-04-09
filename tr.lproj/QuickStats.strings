@@ -1,0 +1,40 @@
+/*
+    UltraPowerSavingMode
+    Dil: Türkçe
+    Çeviri: @enesogden
+    Tarih: 4 Nisan 2020
+*/
+
+"QUICK_STATS_TITLE" = "Hızlı İstatistikler";
+
+"DATA_UPDATE" = "Veri Güncellemesi";
+"DATA_UPDATE_DESCRIPTION" = "Statik: Ekranda gösterilen veriler saniyede bir güncellenmez (daha az pil kullanarak). Gerçek Zamanlı: Verileri her saniye güncelleyin.";
+"DATA_UPDATE_STATIC" = "Statik";
+"DATA_UPDATE_REALTIME" = "Gerçek Zamanlı";
+
+"QUICK_STATS_DURATION" = "Hızlı İstatistik Süresi";
+"QUICK_STATS_DURATION_DESCRIPTION" = "Ultra güç tasarrufu modundayken hızlı istatistik verilerini gösterme süresini ayarlayın. Varsayılan 10 saniye.";
+"QUICK_STATS_DURATION_VALUE" = "Animasyon Süresi";
+
+"NEXT_ALARM" = "Sıradaki Alarm";
+"NEXT_ALARM_DESCRIPTION" = "Saatin altında bir sonraki alarm ayrıntılarını göster (varsa).";
+"NEXT_ALARM_ENABLED" = "Sıradaki Alarm Açık";
+
+"CALENDAR_UPCOMING_EVENTS" = "Takvim Yaklaşan Etkinlikler";
+"CALENDAR_UPCOMING_EVENTS_DESCRIPTION" = "Uygun etkinlikleri kontrol etmek için önümüzdeki maksimum günü seçin.";
+"CALENDAR_UPCOMING_EVENTS_ENABLED" = "Yaklaşan Etkinlikler Açık";
+"CALENDAR_UPCOMING_EVENTS_3DAYS" = "3 Gün";
+"CALENDAR_UPCOMING_EVENTS_7DAYS" = "7 Gün";
+"CALENDAR_UPCOMING_EVENTS_14DAYS" = "14 Gün";
+"CALENDAR_UPCOMING_EVENTS_1MONTH" = "1 Ay";
+
+"BATTERY_TEMPERATURE" = "Pil Sıcaklığı";
+"BATTERY_TEMPERATURE_DESCRIPTION" = "Tercih ettiğiniz pil sıcaklığı göstergesini seçin.";
+"BATTERY_TEMPERATURE_CELCIUS" = "Celcius";
+"BATTERY_TEMPERATURE_FAHRENHEIT" = "Fahrenheit";
+
+"BATTERY_ESTIMATION" = "Pil Tahmini (Deneysel)";
+"BATTERY_ESTIMATION_DESCRIPTION" = "Pil süresini dolana kadar ve bitene kadar tahmin edin. Not: Verileri ne kadar çok gösterirseniz o kadar doğru olur.";
+"BATTERY_ESTIMATION_ESTIMATION" = "Tahmin";
+"BATTERY_ESTIMATION_EXACT_TIME" = "Tam Zamanında";
+"BATTERY_ESTIMATION_BOTH" = "İkisi";

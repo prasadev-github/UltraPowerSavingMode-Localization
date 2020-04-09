@@ -36,7 +36,9 @@
 
 "RESULT_NOTIFICATION" = "نتيجة الإشعار";
 "RESULT_NOTIFICATION_DESCRIPTION" = "عرض تنبيه إشعار يحتوي على طول وقت ومقدار البطارية الذي استخدمته/شحنته أثناء توفير الطاقة.";
-"RESULT_NOTIFICATION_ENABLED" = "تفعيل نتيجة الإشعار"
+"RESULT_NOTIFICATION_ENABLED" = "تفعيل نتيجة الإشعار";
+"RESULT_NOTIFICATION_TYPE_ONE" = "تنبيه";
+"RESULT_NOTIFICATION_TYPE_TWO" = "إنذار";
 
 "ALARM_TIMER_MANAGER" = "إدارة المنبه/المؤقت";
 "ALARM_TIMER_MANAGER_DESCRIPTION" = "السماح للمنبه أو المؤقت بالرنين عندما تكون داخل وضع توفير الطاقة الفائق. يمكنك أخذ غفوة عن طريق الضغط على زر رفع مستوى الصوت، والإيقاف عن طريق الضغط على زر خفض مستوى الصوت.";
@@ -56,7 +58,7 @@
 "HAPTIC_FEEDBACK_TEST_HAPTIC_VIBRATION" = "اختبار هزة الحس اللمسي";
 "HAPTIC_FEEDBACK_TYPE_ONE" = "النوع الأول";
 "HAPTIC_FEEDBACK_TYPE_TWO" = "النوع الثاني";
-"HAPTIC_FEEDBACK_TYPE_THREE" = "النوع الثالث;
+"HAPTIC_FEEDBACK_TYPE_THREE" = "النوع الثالث";
 
 "VIBRATION_FEEDBACK" = "الاستجابة الهزية (iPhone 6 وأقدم)";
 "VIBRATION_FEEDBACK_DESCRIPTION" = "قم بتفعيل هذا الخيار فقط إذا كان جهازك لا يدعم الاستجابة اللمسية أو إذا كنت تريد استخدام هذا النوع من الاهتزاز، وتأكد من أن إعدادات الاهتزاز الخاصة بك مشغلة.";

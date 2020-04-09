@@ -1,0 +1,86 @@
+/*
+    UltraPowerSavingMode
+    Language: Indonesia
+    Translated by @prasadev_
+    Date: 03 April 2020
+*/
+
+"TWEAK_ENABLED" = "Tweak Diaktifkan";
+"ENTER_ULTRAPOWERSAVINGMODE" = "Masuk ke UltraPowerSavingMode";
+
+"QUICK_INSTRUCTION" = "Instruksi Singkat";
+"QUICK_INSTRUCTION_DESCRIPTION" = "Informasi tentang cara menggunakan tweak secara umum.";
+"HOW_TO_USE" = "Bagaimana caranya menggunakan?";
+
+"QUICK_STATS" = "Statistik Cepat";
+"QUICK_STATS_DESCRIPTION" = "Perlihatkan sekilas informasi bermanfaat saat berada di dalam mode hemat daya ultra.";
+"QUICK_STATS_ENABLED" = "Statistik Cepat Diaktifkan";
+"QUICK_STATS_OPTION" = "Opsi Statistik Cepat";
+"QUICK_STATS_INSTRUCTION" = "Instruksi";
+
+"TWEAK_MANAGER" = "Pengelola Tweak";
+"TWEAK_MANAGER_DESCRIPTION" = "Nonaktifkan tweak yang tidak terpakai (menghemat masa pakai baterai) saat memasuki mode hemat daya ultra.";
+"TWEAK_MANAGER_ENABLED" = "Pengelola Tweak Diaktifkan";
+"TWEAK_MANAGER_SELECT_TWEAKS" = "Pilih Tweaks";
+
+"SMART_BATTERY_OPTIMIZER" = "Pengoptimal Baterai Cerdas";
+"SMART_BATTERY_OPTIMIZER_DESCRIPTION" = "Secara otomatis masuk ke mode hemat daya ultra berdasarkan kondisi perangkat tertentu.";
+"SMART_BATTERY_OPTIMIZER_ENABLED" = "Pengoptimal Baterai Diaktifkan";
+"SMART_BATTERY_OPTIMIZER_CONFIGURATION" = "Konfigurasikan Opsi";
+
+"AUTOMATIC_TURN_ON" = "Penghidupan Otomatis";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "Secara otomatis mengubah perangkat ke keadaan normal ketika baterai saat ini lebih besar dari level baterai yang Anda atur. Ini hanya akan berfungsi jika Anda memasuki mode hemat daya secara manual (tidak dengan pengoptimal baterai cerdas).";
+"AUTOMATIC_TURN_ON_ENABLED" = "Gunakan Penghidupan Otomatis";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "Level Baterai";
+
+"APPS_MANAGER" = "Pengelola Aplikasi";
+"APPS_MANAGER_DESCRIPTION" = "Secara otomatis hentikan aplikasi tidak aktif di appswitcher ketika memasuki mode hemat daya ultra.";
+"APPS_MANAGER_ENABLED" = "Penghentian Aplikasi";
+
+"FLASHLIGHT" = "Senter";
+"FLASHLIGHT_DESCRIPTION" = "Gunakan senter saat baterai hemat daya. Harap diingat, menggunakan senter untuk waktu yang lama dapat mengurangi masa pakai baterai Anda cukup signifikan.";
+"FLASHLIGHT_ENABLED" = "Senter Diaktifkan";
+
+"RESULT_NOTIFICATION" = "Pemberitahuan Hasil";
+"RESULT_NOTIFICATION_DESCRIPTION" = "Tampilkan peringatan notifikasi yang berisi berapa lama dan berapa banyak baterai yang Anda gunakan / isi saat menghemat daya.";
+"RESULT_NOTIFICATION_ENABLED" = "Pemberitahuan Hasil Diaktifkan";
+"RESULT_NOTIFICATION_TYPE_ONE" = "Notifikasi";
+"RESULT_NOTIFICATION_TYPE_TWO" = "Pop-up";
+
+"ALARM_TIMER_MANAGER" = "Manajer Alarm / Timer";
+"ALARM_TIMER_MANAGER_DESCRIPTION" = "Biarkan alarm atau timer berdering saat berada dalam mode hemat daya ultra. Anda dapat menunda dengan menekan volume ke atas, dan berhenti dengan menekan volume ke bawah.";
+"ALARM_ENABLED" = "Alarm Diaktifkan";
+"TIMER_ENABLED" = "Timer Diaktifkan";
+"ALARM_TIMER_MANAGER_CUSTOM_VOLUME" = "Atur Volume";
+"ALARM_TIMER_MANAGER_VOLUME_VALUE" = "Tinggi Volume";
+
+"ANIMATION_DURATION" = "Durasi Animasi";
+"ANIMATION_DURATION_DESCRIPTION" = "Konfigurasikan durasi animasi saat memasuki mode hemat daya ultra. Standarnya 2.0, atur ke 0 jika Anda ingin langsung masuk ke mode hemat daya ultra.";
+"ANIMATION_DURATION_VALUE" = "Durasi Animasi";
+
+"HAPTIC_FEEDBACK" = "Umpan Balik Haptic (iPhone 6S dan yang lebih baru)";
+"HAPTIC_FEEDBACK_DESCRIPTION" = "Getar perangkat menggunakan umpan balik haptic ketika perangkat telah berhasil memasuki atau meninggalkan mode hemat daya ultra.";
+"HAPTIC_FEEDBACK_ENABLED" = "Haptic Diaktifkan";
+"HAPTIC_FEEDBACK_TYPE" = "Tipe Haptic";
+"HAPTIC_FEEDBACK_TEST_HAPTIC_VIBRATION" = "Tes Getaran Haptic";
+"HAPTIC_FEEDBACK_TYPE_ONE" = "Tipe 1";
+"HAPTIC_FEEDBACK_TYPE_TWO" = "Tipe 2";
+"HAPTIC_FEEDBACK_TYPE_THREE" = "Tipe 3";
+
+"VIBRATION_FEEDBACK" = "Umpan Balik Getaran (iPhone 6 dan lebih lama)";
+"VIBRATION_FEEDBACK_DESCRIPTION" = "Hanya aktifkan ini jika perangkat Anda tidak mendukung umpan balik haptic atau Anda ingin menggunakan jenis getaran ini, dan pastikan pengaturan getaran Anda aktif.";
+"VIBRATION_FEEDBACK_ENABLED" = "Gunakan Getaran Tipe Lama";
+"VIBRATION_FEEDBACK_TEST_LEGACY_VIBRATION" = "Tes Getaran Tipe Lama";
+
+"OPTIONAL_INTEGRATION" = "Integrasi opsional";
+"OPTIONAL_INTEGRATION_DESCRIPTION" = "Ucapkan status perangkat dengan suara lokal / siri, aktifkan mode hemat daya dari jarak jauh, otomasi speaker, dan opsi yang lebih berguna!";
+"OPTIONAL_INTEGRATION_CHATSPEAKER" = "Integrasi ChatSpeaker";
+
+"EXTRA" = "Ekstra";
+"EXTRA_DONATION" = "Donasi";
+"EXTRA_PACKAGE_INFORMATION" = "Informasi Tweak";
+
+"SUPPORT" = "Dukungan";
+"SUPPORT_SEND_AN_EMAIL" = "Kirim Email";
+"SUPPORT_ASK_VIA_TWITTER" = "Tanyakan melalui Twitter";
+"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "Salin EDID ke Clipboard";

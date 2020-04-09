@@ -1,0 +1,42 @@
+/*
+    UltraPowerSavingMode
+    Language: French
+    Translated by @jes6mac
+    Date: 09 April 2020
+*/
+
+"BATTERY_OPTIMIZER_TITLE" = "Smart Battery Optimizer";
+
+"WHEN_TO_USE" = "Quand l'utiliser\?";
+"WHEN_TO_USE_DESCRIPTION" = "Choisissez le moment auquel vous souhaitez activer automatiquement le mode économie d'énergie.";
+"WHEN_TO_USE_CHARGING" = "En charge";
+"WHEN_TO_USE_NOT_CHARGING" = "Pas de charge";
+"WHEN_TO_USE_BOTH" = "Les deux";
+"WHEN_TO_USE_USAGE_EXPLANATION" = "Explication d'utilisation";
+
+"NO_INTERNET" = "Sans internet";
+"NO_INTERNET_DESCRIPTION" = "Activer seulement lorsqu'il n'y a pas de connexion internet.";
+"NO_INTERNET_ENABLED" = "Pas de connexion internet";
+
+"MEDIA_PLAYING" = "Media en cours de lecture";
+"MEDIA_PLAYING_DESCRIPTION" = "Activer uniquement lorsque une musique ou un média est joué. Utile si vous vous endormez en musique.";
+"MEDIA_PLAYING_ENABLED" = "Media en cours de lecture";
+
+"SCREEN_OFF" = "Ecran éteint";
+"SCREEN_OFF_DESCRIPTION" = "Utiliser le mode économie d'énergie uniquement lorsque l'écran est éteint.";
+"SCREEN_OFF_ENABLED" = "Uniquement écran éteint";
+
+"AUTOMATIC_TURN_ON" = "Activer automatiquement";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "Revenir à l'état normal lorsque le niveau de batterie est superieur à celui que vous avez choisi.";
+"AUTOMATIC_TURN_ON_ENABLED" = "Utiliser l'activation automatique";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "Niveau de batterie";
+
+"MINIMUM_BATTERY_PERCENTAGE" = "Pourcentage de batterie minimum";
+"MINIMUM_BATTERY_PERCENTAGE_DESCRIPTION" = "Activer le mode économie d'énergie lorsque le pourcentage de batterie est en dessous de ce niveau. Le niveau par défaut est de 5%.";
+"MINIMUM_BATTERY_PERCENTAGE_VALUE" = "Pourcentage de batterie";
+
+"DELAY" = "Délais";
+"DELAY_DESCRIPTION" = "Choissisez le délais (en minutes) avant que l'appareil entre en mode économie d'énergie. 2 minutes par défaut.";
+
+"NOTE" = "Note : Pour annuler le délais durant le compte à rebours, vous pouvez presser 3 fois le bouton de verrouillage (iOS 13) ou appuyer longuement sur le bouton de verrouillage (iOS 12).";
+"EXTRA_NOTE" = "Note supplémentaire : Annuler manuellement le compte à rebours retardera le délais de 10 minutes (si les conditions sont toujours réunies). Si vous utilisez les options de charge, débrancher le chargeur durant le compte à rebours va automatiquement reporter le délais de 5 minutes (si les conditions sont toujours réunies).";

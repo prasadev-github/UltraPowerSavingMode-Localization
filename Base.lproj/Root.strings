@@ -44,6 +44,8 @@
 "RESULT_NOTIFICATION" = "Result Notification";
 "RESULT_NOTIFICATION_DESCRIPTION" = "Show a notification alert containing how long and how much battery you've used/charged while power-saving.";
 "RESULT_NOTIFICATION_ENABLED" = "Result Notification Enabled";
+"RESULT_NOTIFICATION_TYPE_ONE" = "Notification";
+"RESULT_NOTIFICATION_TYPE_TWO" = "Alert";
 
 "ALARM_TIMER_MANAGER" = "Alarm / Timer Manager";
 "ALARM_TIMER_MANAGER_DESCRIPTION" = "Allow alarm or timer to ring when inside ultra power saving mode. You can snooze by pressing volume up, and stop by pressing volume down.";

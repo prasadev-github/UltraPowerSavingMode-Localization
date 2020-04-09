@@ -1,0 +1,42 @@
+/*
+     UltraPowerSavingMode
+     Language: Japanese
+     Translated by @jayguar1206
+     Date: 03 April 2020
+*/
+ 
+"BATTERY_OPTIMIZER_TITLE" = "スマートバッテリーオプティマイザー";
+
+"WHEN_TO_USE" = "いつ使うか？";
+"WHEN_TO_USE_DESCRIPTION" = "自動的に省電力モードに入るタイミングを選択してください。";
+"WHEN_TO_USE_CHARGING" = "充電";
+"WHEN_TO_USE_NOT_CHARGING" = "充電していません";
+"WHEN_TO_USE_BOTH" = "どちらも";
+"WHEN_TO_USE_USAGE_EXPLANATION" = "使用説明";
+
+"NO_INTERNET" = "インターネットなし";
+"NO_INTERNET_DESCRIPTION" = "インターネット接続がない場合にのみ有効にします。";
+"NO_INTERNET_ENABLED" = "インターネット接続なし";
+
+"MEDIA_PLAYING" = "メディア再生";
+"MEDIA_PLAYING_DESCRIPTION" = "音楽またはメディアが現在再生中の場合にのみ有効にします。これは、音楽の再生中によく眠ってしまう場合に役立ちます。";
+"MEDIA_PLAYING_ENABLED" = "メディア再生";
+
+"SCREEN_OFF" = "画面オフ";
+"SCREEN_OFF_DESCRIPTION" = "現在画面がオフの場合にのみ、超省電力モードに入ります。";
+"SCREEN_OFF_ENABLED" = "画面のみオフ";
+
+"AUTOMATIC_TURN_ON" = "自動電源オン";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "現在のバッテリーが設定したバッテリーレベルよりも大きい場合、デバイスを自動的に通常の状態にします。";
+"AUTOMATIC_TURN_ON_ENABLED" = "自動電源オンを使用";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "バッテリーレベル";
+
+"MINIMUM_BATTERY_PERCENTAGE" = "最小バッテリーパーセンテージ";
+"MINIMUM_BATTERY_PERCENTAGE_DESCRIPTION "="現在のバッテリーのパーセンテージが設定したパーセンテージを下回ったときに省電力モードに入ります。デフォルトのバッテリーしきい値は5％です。";
+"MINIMUM_BATTERY_PERCENTAGE_VALUE" = "バッテリーの割合";
+
+"DELAY" = "遅延";
+"DELAY_DESCRIPTION" = "デバイスが超省電力モードに入る直前の遅延を（分単位で）設定します。デフォルトは2分です。";
+
+"NOTE" = "注：カウントダウン中の現在の遅延をキャンセルするには、ロックボタンを3回押す（iOS 13）またはロックボタンを長押しする（iOS 12）";
+"EXTRA_NOTE" = "追記：手動で遅延をキャンセルすると、遅延が10分間延期されます（条件が満たされている場合）。充電オプションのみを使用している場合、カウントダウン中に充電器を取り外すと、遅延が自動的に5分間キャンセルされます（条件が満たされた場合） まだ会った）」";

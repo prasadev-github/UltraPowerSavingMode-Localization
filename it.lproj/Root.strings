@@ -1,0 +1,86 @@
+/*
+    UltraPowerSavingMode
+    Language: Italian
+    Translated by @SAzzinelli
+    Date: 08 April 2020
+*/
+
+"TWEAK_ENABLED" = "Tweak Attivo";
+"ENTER_ULTRAPOWERSAVINGMODE" = "Attiva UltraPowerSavingMode";
+
+"QUICK_INSTRUCTION" = "Istruzioni rapide";
+"QUICK_INSTRUCTION_DESCRIPTION" = "Come utilizzare il tweak in generale.";
+"HOW_TO_USE" = "Come si usa?";
+
+"QUICK_STATS" = "Quick Stats";
+"QUICK_STATS_DESCRIPTION" = "Mostra informazioni rapide mentre ti trovi in modalità Ultra Power Saving Mode";
+"QUICK_STATS_ENABLED" = "Quick Stats Attive";
+"QUICK_STATS_OPTION" = "Opzioni Quick Stats";
+"QUICK_STATS_INSTRUCTION" = "Istruzioni";
+
+"TWEAK_MANAGER" = "Tweak Manager";
+"TWEAK_MANAGER_DESCRIPTION" = "Disattiva tweak inutilizzati (preservando così batteria) quando si entra in modalità Ultra Power Save Mode.";
+"TWEAK_MANAGER_ENABLED" = "Tweak Manager Attivo";
+"TWEAK_MANAGER_SELECT_TWEAKS" = "Selezione Tweaks";
+
+"SMART_BATTERY_OPTIMIZER" = "Smart Battery Optimizer";
+"SMART_BATTERY_OPTIMIZER_DESCRIPTION" = "Entra in modalità Ultra Power Saving Mode in base a determinate condizioni.";
+"SMART_BATTERY_OPTIMIZER_ENABLED" = "Battery Optimizer Attivo";
+"SMART_BATTERY_OPTIMIZER_CONFIGURATION" = "Configura Opzioni";
+
+"AUTOMATIC_TURN_ON" = "Attiv. Automatica";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "Torna automaticamente alla Modalità Normale quando la tua percentuale batteria è maggiore di quella impostata. Funziona solo se attivi manualmente la modalità Ultra Power Saving Mode (non con Smart Battery Optimizer).";
+"AUTOMATIC_TURN_ON_ENABLED" = "Usa Attiv. Automatica";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "Livello Batteria";
+
+"APPS_MANAGER" = "Gestione Applicazioni";
+"APPS_MANAGER_DESCRIPTION" = "Chiudi automaticamente ogni applicazione dal multitasking quando entri in modalità Ultra Power Saving Mode.";
+"APPS_MANAGER_ENABLED" = "Chiudi App Aperte";
+
+"FLASHLIGHT" = "Torcia";
+"FLASHLIGHT_DESCRIPTION" = "Utilizza la torcia in modalità risparmio. Ricorda che utilizzare la torcia riduce drasticamente la durata della batteria.";
+"FLASHLIGHT_ENABLED" = "Torcia Attiva";
+
+"RESULT_NOTIFICATION" = "Notifica Risultati";
+"RESULT_NOTIFICATION_DESCRIPTION" = "Invia una notifica contenente la durata e la quantità di batteria utilizzata/caricata con modalità risparmio attiva.";
+"RESULT_NOTIFICATION_ENABLED" = "Result Notification Enabled";
+"RESULT_NOTIFICATION_TYPE_ONE" = "Notifica";
+"RESULT_NOTIFICATION_TYPE_TWO" = "Mettere in guardia";
+
+"ALARM_TIMER_MANAGER" = "Gestione Sveglia / Timer";
+"ALARM_TIMER_MANAGER_DESCRIPTION" = "Consenti alle sveglie o timer di suonare in modalità risparmio. Puoi ritardare premendo Vol su e stopparle premendo Vol giù.";
+"ALARM_ENABLED" = "Sveglia Attiva";
+"TIMER_ENABLED" = "Timer Attivo";
+"ALARM_TIMER_MANAGER_CUSTOM_VOLUME" = "Livello Volume";
+"ALARM_TIMER_MANAGER_VOLUME_VALUE" = "Valore Volume";
+
+"ANIMATION_DURATION" = "Durata Animazioni";
+"ANIMATION_DURATION_DESCRIPTION" = "Configura la durata delle animazioni in modalità Ultra Power Saving Mode. Default 2.0, imposta 0 se vuoi entrare in modalità Ultra Power Saving Mode istantaneamente.";
+"ANIMATION_DURATION_VALUE" = "Durata Animazioni";
+
+"HAPTIC_FEEDBACK" = "Feedback Aptico (iPhone 6S e nuovi)";
+"HAPTIC_FEEDBACK_DESCRIPTION" = "Emetti un feedback aptico quando il dispositivo è correttamente entrato in modalità Ultra Power Saving Mode.";
+"HAPTIC_FEEDBACK_ENABLED" = "Feedback Attivo";
+"HAPTIC_FEEDBACK_TYPE" = "Tipo Feedback";
+"HAPTIC_FEEDBACK_TEST_HAPTIC_VIBRATION" = "Prova Feedback Aptico";
+"HAPTIC_FEEDBACK_TYPE_ONE" = "Tipo 1";
+"HAPTIC_FEEDBACK_TYPE_TWO" = "Tipo 2";
+"HAPTIC_FEEDBACK_TYPE_THREE" = "Tipo 3";
+
+"VIBRATION_FEEDBACK" = "Vibrazione Normale (iPhone 6 e vecchi)";
+"VIBRATION_FEEDBACK_DESCRIPTION" = "Attiva questa impostazione solo se il tuo dispositivo non supporta la vibrazione con Feedback Aptico e assicurati di aver attivato la vibrazione sul tuo telefono.";
+"VIBRATION_FEEDBACK_ENABLED" = "Usa Vibrazione Normale";
+"VIBRATION_FEEDBACK_TEST_LEGACY_VIBRATION" = "Prova Vibrazione Normale";
+
+"OPTIONAL_INTEGRATION" = "Integrazioni Opzionali";
+"OPTIONAL_INTEGRATION_DESCRIPTION" = "Annuncia lo stato del dispositivo con la voce di Siri, attiva Ultra Power Saving Mode da remoto, automazione altoparlanti e tante altre opzioni!";
+"OPTIONAL_INTEGRATION_CHATSPEAKER" = "Integrazione ChatSpeaker";
+
+"EXTRA" = "Extra";
+"EXTRA_DONATION" = "Donazione";
+"EXTRA_PACKAGE_INFORMATION" = "Informazioni Pacchetto";
+
+"SUPPORT" = "Supporto";
+"SUPPORT_SEND_AN_EMAIL" = "Invia una Mail";
+"SUPPORT_ASK_VIA_TWITTER" = "Chiedi su Twitter";
+"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "Copia EDID";

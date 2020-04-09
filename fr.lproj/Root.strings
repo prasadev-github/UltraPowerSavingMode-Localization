@@ -1,0 +1,86 @@
+/*
+    UltraPowerSavingMode
+    Language: French
+    Translated by @jes6mac
+    Date: 09 April 2020
+*/
+
+"TWEAK_ENABLED" = "Tweak activé";
+"ENTER_ULTRAPOWERSAVINGMODE" = "Activer UltraPowerSavingMode maintenant";
+
+"QUICK_INSTRUCTION" = "Instructions rapides";
+"QUICK_INSTRUCTION_DESCRIPTION" = "Information sur l'utilisation du tweak.";
+"HOW_TO_USE" = "Comment cela fonctionne?";
+
+"QUICK_STATS" = "Statistiques rapides";
+"QUICK_STATS_DESCRIPTION" = "Active un affichage rapide des informations utiles lorsque vous entrez en mode économie d'énergie.";
+"QUICK_STATS_ENABLED" = "Statistiques rapides activées";
+"QUICK_STATS_OPTION" = "Options de statistiques rapides";
+"QUICK_STATS_INSTRUCTION" = "Instructions";
+
+"TWEAK_MANAGER" = "Gestion des tweaks";
+"TWEAK_MANAGER_DESCRIPTION" = "Choisissez les tweaks à désactiver (économise la batterie) lorsque vous entrez en mode économie d'énergie.";
+"TWEAK_MANAGER_ENABLED" = "Gestion des tweaks activé";
+"TWEAK_MANAGER_SELECT_TWEAKS" = "Selectionner les Tweaks";
+
+"SMART_BATTERY_OPTIMIZER" = "Optimisation intelligente de la batterie";
+"SMART_BATTERY_OPTIMIZER_DESCRIPTION" = "Entrez automatiquement en mode économie d'énergie si certaines conditions sont réunies.";
+"SMART_BATTERY_OPTIMIZER_ENABLED" = "Optimisation de la batterie activée";
+"SMART_BATTERY_OPTIMIZER_CONFIGURATION" = "Configurer les options";
+
+"AUTOMATIC_TURN_ON" = "Activer automatiquement";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "Revenir au mode normal automatiquement lorsque le niveau de batterie est superieur au niveau choisi. Cela ne fonctionne uniquement si vous entrez en mode économie d'énergie manuellement (pas avec la gestion intelligente de la batterie).";
+"AUTOMATIC_TURN_ON_ENABLED" = "Utiliser l'activation automatique";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "Niveau de batterie";
+
+"APPS_MANAGER" = "Gestion des applications";
+"APPS_MANAGER_DESCRIPTION" = "Quitter automatiquement toutes les applications en arrière plan lorsque vous entrez en mode économie d'énergie.";
+"APPS_MANAGER_ENABLED" = "Gestion des applications activée";
+
+"FLASHLIGHT" = "Flash";
+"FLASHLIGHT_DESCRIPTION" = "Utiliser le flash lors de l'économie d'énergie. Gardez en tête qu'utiliser le flash pendant un long moment peut fortement réduire votre autonomie de batterie.";
+"FLASHLIGHT_ENABLED" = "Fash activé";
+
+"RESULT_NOTIFICATION" = "Notification de résultat";
+"RESULT_NOTIFICATION_DESCRIPTION" = "Afficher une notification indiquant combien de batterie vous avez utilisé / chargé avec le mode économie d'énergie.";
+"RESULT_NOTIFICATION_ENABLED" = "Notification de résultat activé";
+"RESULT_NOTIFICATION_TYPE_ONE" = "Notification";
+"RESULT_NOTIFICATION_TYPE_TWO" = "Alerte";
+
+"ALARM_TIMER_MANAGER" = "Gestion d'alarme / timer";
+"ALARM_TIMER_MANAGER_DESCRIPTION" = "Autoriser les alarmes et timer à sonner lorsque vous êtes en mode économie d'énergie. Vous pouvez reporter avec le bouton de volume +, et arrêter avec le bouton de volume -.";
+"ALARM_ENABLED" = "Alarme activée";
+"TIMER_ENABLED" = "Timer activé";
+"ALARM_TIMER_MANAGER_CUSTOM_VOLUME" = "Volume personnalisé";
+"ALARM_TIMER_MANAGER_VOLUME_VALUE" = "Valeur du volume";
+
+"ANIMATION_DURATION" = "Animation Duration";
+"ANIMATION_DURATION_DESCRIPTION" = "Configurer la durée de l'animation lorsque vous activez le mode économie d'énergie. 2.0 par défaut, choississez 0 si vous souhaitez activer immédiatement le mode économie d'énergie.";
+"ANIMATION_DURATION_VALUE" = "Durée de l'animation";
+
+"HAPTIC_FEEDBACK" = "Vibration haptic (iPhone 6S et supérieur)";
+"HAPTIC_FEEDBACK_DESCRIPTION" = "Faire vibrer l'appareil lors de l'activation ou désactivation du mode économie d'énergie.";
+"HAPTIC_FEEDBACK_ENABLED" = "Vibration Haptic activée";
+"HAPTIC_FEEDBACK_TYPE" = "Type de vibration";
+"HAPTIC_FEEDBACK_TEST_HAPTIC_VIBRATION" = "Testez la vibration";
+"HAPTIC_FEEDBACK_TYPE_ONE" = "Type 1";
+"HAPTIC_FEEDBACK_TYPE_TWO" = "Type 2";
+"HAPTIC_FEEDBACK_TYPE_THREE" = "Type 3";
+
+"VIBRATION_FEEDBACK" = "Vibration (iPhone 6 et plus anciens)";
+"VIBRATION_FEEDBACK_DESCRIPTION" = "Activez uniquement si votre appareil ne supporte pas la vibration Haptic ou si vous souhaitez utiliser ce type de vibration, et verifiez que vos reglages de vibration sont activés.";
+"VIBRATION_FEEDBACK_ENABLED" = "Utiliser la vibration classique";
+"VIBRATION_FEEDBACK_TEST_LEGACY_VIBRATION" = "Tester la vibration classique";
+
+"OPTIONAL_INTEGRATION" = "Integration optionnelle";
+"OPTIONAL_INTEGRATION_DESCRIPTION" = "Annoncer oralement l'état de l'appareil, activer le mode économie d'énergie à distance, et plus d'options!";
+"OPTIONAL_INTEGRATION_CHATSPEAKER" = "ChatSpeaker Integration";
+
+"EXTRA" = "Extra";
+"EXTRA_DONATION" = "Dons";
+"EXTRA_PACKAGE_INFORMATION" = "Information de paquet";
+
+"SUPPORT" = "Support";
+"SUPPORT_SEND_AN_EMAIL" = "Envoyer un Email";
+"SUPPORT_ASK_VIA_TWITTER" = "Demander via Twitter";
+"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "Copier EDID dans le presse papier";

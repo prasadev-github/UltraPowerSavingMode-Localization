@@ -1,0 +1,25 @@
+/*
+    UltraPowerSavingMode
+    Dil: Türkçe
+    Çeviri: @enesogden
+    Tarih: 4 Nisan 2020
+*/
+
+"PURCHASE" = "Satın Alma \(iOS 12 \& 13\)";
+"PURCHASE_DESCRIPTION" = "Başarılı bir satın alma işleminden sonra lütfen aşağıdaki  \"Lisansı Etkinleştir\" düğmesini kullanarak lisansınızı etkinleştirin";
+"PURCHASE_LICENSE" = "UltraPowerSavingMode Lisansı Satın Alın";
+"PURCHASE_FAQS" = "Sıkça Sorulan Sorular";
+
+"COUPON_CODE" = "Kupon Kodu";
+"COUPON_CODE_DESCRIPTION" = "Kupon kodunuz mu var? Kuponunuzu kullanmak için bu düğmeyi kullanabilirsiniz.";
+"COUPON_CODE_REDEEM" = "Kupon Kodunu Kullan";
+
+"ACTIVATE_LICENSE" = "Lisansı Etkinleştir";
+"ACTIVATE_LICENSE_DESCRIPTION" = "Cihaz lisansınızı geri yüklemek veya etkinleştirmek için bu düğmeyi kullanabilirsiniz.";
+"ACTIVATE_LICENSE_BUTTON" = "Lisansı Etkinleştir";
+
+"SUPPORT" = "Destek";
+"SUPPORT_HELP" = "Yardım Sayfasını Görüntüle";
+"SUPPORT_SEND_AN_EMAIL" = "E-mail Gönder";
+"SUPPORT_ASK_VIA_TWITTER" = "Twitter'da Sor";
+"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "EDID'yi Panoya Kopyala";

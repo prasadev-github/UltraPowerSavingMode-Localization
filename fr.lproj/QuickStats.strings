@@ -1,0 +1,40 @@
+/*
+    UltraPowerSavingMode
+    Language: French
+    Translated by @jes6mac
+    Date: 09 April 2020
+*/
+
+"QUICK_STATS_TITLE" = "Statistiques rapides";
+
+"DATA_UPDATE" = "Mise à jour des données";
+"DATA_UPDATE_DESCRIPTION" = "Statique : Les données affichée à l'écran ne sont pas mises à jour toutes les secondes (consomme moins de batterie). Temps réel : Mise à jour toutes les secondes.";
+"DATA_UPDATE_STATIC" = "Statique";
+"DATA_UPDATE_REALTIME" = "Temps réel";
+
+"QUICK_STATS_DURATION" = "Temps des statistiques rapides";
+"QUICK_STATS_DURATION_DESCRIPTION" = "Choississez le temps d'affichage des données lorsque vous entrez en mode économie d'énergie. 10 secondes par défaut.";
+"QUICK_STATS_DURATION_VALUE" = "Durée de l'animation";
+
+"NEXT_ALARM" = "Prochaine alarme";
+"NEXT_ALARM_DESCRIPTION" = "Afficher la prochaine alarme en dessous de l'heure (si disponible).";
+"NEXT_ALARM_ENABLED" = "Prochaine alarme activé";
+
+"CALENDAR_UPCOMING_EVENTS" = "Evénement à venir dans le calendrier";
+"CALENDAR_UPCOMING_EVENTS_DESCRIPTION" = "Séléctionner le maximum de jours d'événements à afficher.";
+"CALENDAR_UPCOMING_EVENTS_ENABLED" = "Evénement à venir activé";
+"CALENDAR_UPCOMING_EVENTS_3DAYS" = "3 jours";
+"CALENDAR_UPCOMING_EVENTS_7DAYS" = "7 jours";
+"CALENDAR_UPCOMING_EVENTS_14DAYS" = "14 jours";
+"CALENDAR_UPCOMING_EVENTS_1MONTH" = "1 mois";
+
+"BATTERY_TEMPERATURE" = "Température de batterie";
+"BATTERY_TEMPERATURE_DESCRIPTION" = "Choississez votre unité de mesure de température.";
+"BATTERY_TEMPERATURE_CELCIUS" = "Celcius";
+"BATTERY_TEMPERATURE_FAHRENHEIT" = "Fahrenheit";
+
+"BATTERY_ESTIMATION" = "Estimation de la batterie (Experimental)";
+"BATTERY_ESTIMATION_DESCRIPTION" = "Estimation du temps jusqu'à charge ou décharge complet. Note : Plus vous affichez de données, plus cela sera précis.";
+"BATTERY_ESTIMATION_ESTIMATION" = "Estimation";
+"BATTERY_ESTIMATION_EXACT_TIME" = "Temps exact";
+"BATTERY_ESTIMATION_BOTH" = "Les deux";

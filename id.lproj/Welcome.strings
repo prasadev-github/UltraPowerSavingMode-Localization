@@ -1,0 +1,25 @@
+/*
+    UltraPowerSavingMode
+    Language: Indonesia
+    Translated by @prasadev_
+    Date: 03 April 2020
+*/
+
+"PURCHASE" = "Beli \(iOS 12 \& 13\)";
+"PURCHASE_DESCRIPTION" = "Setelah pembelian berhasil, harap aktifkan lisensi Anda menggunakan tombol \"Aktifkan Lisensi\" di bawah.";
+"PURCHASE_LICENSE" = "Beli Lisensi UltraPowerSavingMode";
+"PURCHASE_FAQS" = "FAQs Pembayaran";
+
+"COUPON_CODE" = "Kode Kupon";
+"COUPON_CODE_DESCRIPTION" = "Punya kode kupon? Anda dapat menggunakan tombol ini untuk menebus kupon Anda.";
+"COUPON_CODE_REDEEM" = "Tebus Kode Kupon";
+
+"ACTIVATE_LICENSE" = "Aktifkan Lisensi";
+"ACTIVATE_LICENSE_DESCRIPTION" = "Anda dapat menggunakan tombol ini untuk memulihkan atau mengaktifkan lisensi perangkat Anda.";
+"ACTIVATE_LICENSE_BUTTON" = "Aktifkan Lisensi";
+
+"SUPPORT" = "Dukungan";
+"SUPPORT_HELP" = "Lihat Halaman Bantuan";
+"SUPPORT_SEND_AN_EMAIL" = "Kirim Email";
+"SUPPORT_ASK_VIA_TWITTER" = "Tanyakan melalui Twitter";
+"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "Salin EDID ke Clipboard";

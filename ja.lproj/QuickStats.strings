@@ -1,0 +1,40 @@
+/*
+     UltraPowerSavingMode
+     Language: English
+     Translated by @jayguar1206
+     Date: 03 April 2020
+ */
+
+ "QUICK_STATS_TITLE" = "クイック統計";
+
+ "DATA_UPDATE" = "データ更新";
+ "DATA_UPDATE_DESCRIPTION" = "静的：画面に表示されるデータは1秒ごとに更新されません（バッテリー使用量が少ない）。リアルタイム：1秒ごとにデータを更新します。";
+ "DATA_UPDATE_STATIC" = "静的";
+ "DATA_UPDATE_REALTIME" = "リアルタイム";
+
+ "QUICK_STATS_DURATION" = "クイック統計期間";
+ "QUICK_STATS_DURATION_DESCRIPTION" = "超省電力モードに入っているときにクイック統計データを表示する期間を設定します。デフォルトは10秒です。";
+ "QUICK_STATS_DURATION_VALUE" = "アニメーション期間";
+
+ "NEXT_ALARM" = "次のアラーム";
+ "NEXT_ALARM_DESCRIPTION" = "現在の時刻の下に次のアラームの詳細を表示する（可能な場合）。";
+ "NEXT_ALARM_ENABLED" = "次のアラームが有効";
+
+ "CALENDAR_UPCOMING_EVENTS" = "カレンダーの今後のイベント";
+ "CALENDAR_UPCOMING_EVENTS_DESCRIPTION" = "利用可能なイベントを確認する最大日数を選択してください。";
+ "CALENDAR_UPCOMING_EVENTS_ENABLED" = "今後のイベントが有効";
+ "CALENDAR_UPCOMING_EVENTS_3DAYS" = "3日";
+ "CALENDAR_UPCOMING_EVENTS_7DAYS" = "7日";
+ "CALENDAR_UPCOMING_EVENTS_14DAYS" = "14日";
+ "CALENDAR_UPCOMING_EVENTS_1MONTH" = "1か月";
+
+ "BATTERY_TEMPERATURE" = "バッテリー温度";
+ "BATTERY_TEMPERATURE_DESCRIPTION" = "お好みのバッテリー温度を選択してください。";
+ "BATTERY_TEMPERATURE_CELCIUS" = "セルシウス";
+ "BATTERY_TEMPERATURE_FAHRENHEIT" = "華氏";
+
+ "BATTERY_ESTIMATION" = "バッテリー推定（実験的）";
+ "BATTERY_ESTIMATION_DESCRIPTION" = "フルになるまでのバッテリー充電時間と空になるまでの放電時間を推定します。注：データを表示するほど、データが正確になります。";
+ "BATTERY_ESTIMATION_ESTIMATION" = "見積もり";
+ "BATTERY_ESTIMATION_EXACT_TIME" = "正確な時間";
+ "BATTERY_ESTIMATION_BOTH" = "両方";

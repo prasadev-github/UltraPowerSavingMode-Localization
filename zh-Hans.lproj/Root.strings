@@ -1,0 +1,86 @@
+/*
+    UltraPowerSavingMode
+    Language: Chinese
+    Translated by @yang_harapeko
+    Date: 05 April 2020
+*/
+
+"TWEAK_ENABLED" = "启用插件";
+"ENTER_ULTRAPOWERSAVINGMODE" = "立即进入超级省电模式";
+
+"QUICK_INSTRUCTION" = "快速指导";
+"QUICK_INSTRUCTION_DESCRIPTION" = "关于使用本插件的一些信息";
+"HOW_TO_USE" = "如何使用？";
+
+"QUICK_STATS" = "快速统计";
+"QUICK_STATS_DESCRIPTION" = "在超级省电模式下，快速查看有用的信息。";
+"QUICK_STATS_ENABLED" = "开启快速统计";
+"QUICK_STATS_OPTION" = "快速统计选项";
+"QUICK_STATS_INSTRUCTION" = "使用说明";
+
+"TWEAK_MANAGER" = "插件管理";
+"TWEAK_MANAGER_DESCRIPTION" = "进入超级省电模式时，有选择地禁用插件（以延长电池寿命）。";
+"TWEAK_MANAGER_ENABLED" = "开启插件管理";
+"TWEAK_MANAGER_SELECT_TWEAKS" = "选择插件";
+
+"SMART_BATTERY_OPTIMIZER" = "智能电池优化";
+"SMART_BATTERY_OPTIMIZER_DESCRIPTION" = "根据某些条件自动进入超级省电模式。";
+"SMART_BATTERY_OPTIMIZER_ENABLED" = "开启智能电池优化";
+"SMART_BATTERY_OPTIMIZER_CONFIGURATION" = "设置选项";
+
+"AUTOMATIC_TURN_ON" = "自动开启";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "当电池电量超过您设置的电池电量时，自动将设备设置为正常状态。仅当您手动进入省电模式时才有效（不适用于智能电池优化）。";
+"AUTOMATIC_TURN_ON_ENABLED" = "自动开启";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "电池电量";
+
+"APPS_MANAGER" = "应用管理";
+"APPS_MANAGER_DESCRIPTION" = "进入超级省电模式时，自动退出后台所有应用程序。";
+"APPS_MANAGER_ENABLED" = "开启关闭后台应用";
+
+"FLASHLIGHT" = "手电筒";
+"FLASHLIGHT_DESCRIPTION" = "在省电时开启手电筒。请记住，长时间使用手电筒会大大降低电池寿命。";
+"FLASHLIGHT_ENABLED" = "开启手电筒";
+
+"RESULT_NOTIFICATION" = "结果通知";
+"RESULT_NOTIFICATION_DESCRIPTION" = "显示一个通知警报，其中包含节电时您已使用/充电了多长时间以及多少电量。";
+"RESULT_NOTIFICATION_ENABLED" = "结果通知已启用";
+"RESULT_NOTIFICATION_TYPE_ONE" = "通知";
+"RESULT_NOTIFICATION_TYPE_TWO" = "警报";
+
+"ALARM_TIMER_MANAGER" = "闹钟/计时器管理";
+"ALARM_TIMER_MANAGER_DESCRIPTION" = "在超级省电模式下，允许闹钟或计时器响铃。您可以通过音量加按键来贪睡，通过音量减按键来停止。";
+"ALARM_ENABLED" = "开启闹钟";
+"TIMER_ENABLED" = "开启计时器";
+"ALARM_TIMER_MANAGER_CUSTOM_VOLUME" = "自定义音量";
+"ALARM_TIMER_MANAGER_VOLUME_VALUE" = "音量";
+
+"ANIMATION_DURATION" = "动画时长";
+"ANIMATION_DURATION_DESCRIPTION" = "设置进入超级省电模式时的动画持续时间。默认值2.0，如果要立即进入超级省电模式，则设置为0。";
+"ANIMATION_DURATION_VALUE" = "动画时长";
+
+"HAPTIC_FEEDBACK" = "振动反馈（iPhone 6S及更高版本）";
+"HAPTIC_FEEDBACK_DESCRIPTION" = "当设备成功进入或退出超省电模式时，振动设备。";
+"HAPTIC_FEEDBACK_ENABLED" = "开启振动";
+"HAPTIC_FEEDBACK_TYPE" = "振动类型";
+"HAPTIC_FEEDBACK_TEST_HAPTIC_VIBRATION" = "测试振动模式";
+"HAPTIC_FEEDBACK_TYPE_ONE" = "模式1";
+"HAPTIC_FEEDBACK_TYPE_TWO" = "模式2";
+"HAPTIC_FEEDBACK_TYPE_THREE" = "模式3";
+
+"VIBRATION_FEEDBACK" = "振动反馈（iPhone 6和更早版本）";
+"VIBRATION_FEEDBACK_DESCRIPTION" = "仅在设备不支持触觉反馈或要使用这种振动时才启用此功能，并确保您的振动设置已启用。";
+"VIBRATION_FEEDBACK_ENABLED" = "使用旧版振动";
+"VIBRATION_FEEDBACK_TEST_LEGACY_VIBRATION" = "测试旧版振动";
+
+"OPTIONAL_INTEGRATION" = "可选集成";
+"OPTIONAL_INTEGRATION_DESCRIPTION" = "用本地/ Siri语音朗读出设备状态，远程激活省电模式，自动朗读以及更多好用的选项！";
+"OPTIONAL_INTEGRATION_CHATSPEAKER" = "ChatSpeaker";
+
+"EXTRA" = "其他";
+"EXTRA_DONATION" = "捐赠";
+"EXTRA_PACKAGE_INFORMATION" = "软件包信息";
+
+"SUPPORT" = "支持";
+"SUPPORT_SEND_AN_EMAIL" = "发送邮件";
+"SUPPORT_ASK_VIA_TWITTER" = "通过Twitter咨询";
+"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "复制EDID到剪切板";

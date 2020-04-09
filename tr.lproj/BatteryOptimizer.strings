@@ -1,0 +1,42 @@
+/*
+    UltraPowerSavingMode
+    Dil: Türkçe
+    Çeviri: @enesogden
+    Tarih: 4 Nisan 2020
+*/
+
+"BATTERY_OPTIMIZER_TITLE" = "Akıllı Pil Optimizasyonu";
+
+"WHEN_TO_USE" = "Ne Zaman Kullanılır?";
+"WHEN_TO_USE_DESCRIPTION" = "Güç tasarrufu moduna otomatik olarak ne zaman girmek istediğinizi seçin.";
+"WHEN_TO_USE_CHARGING" = "Şarjdayken";
+"WHEN_TO_USE_NOT_CHARGING" = "Şarjda değilken";
+"WHEN_TO_USE_BOTH" = "İkisi";
+"WHEN_TO_USE_USAGE_EXPLANATION" = "Kullanım Açıklaması";
+
+"NO_INTERNET" = "İnternet Yok";
+"NO_INTERNET_DESCRIPTION" = "Yalnızca internet bağlantısı olmadığında etkinleştirin.";
+"NO_INTERNET_ENABLED" = "İnternet bağlantısı yok";
+
+"MEDIA_PLAYING" = "Medya Oynatma";
+"MEDIA_PLAYING_DESCRIPTION" = "Yalnızca çalmakta olan herhangi bir müzik veya medya olduğunda etkinleştirin. Müzik çalarken sıklıkla uykuya dalarsanız bu yararlıdır.";
+"MEDIA_PLAYING_ENABLED" = "Medya Oynatma";
+
+"SCREEN_OFF" = "Ekran Kapalı";
+"SCREEN_OFF_DESCRIPTION" = "Ultra güç tasarrufu moduna yalnızca ekran kapalıyken girin.";
+"SCREEN_OFF_ENABLED" = "Sadece Ekran Kapalı";
+
+"AUTOMATIC_TURN_ON" = "Otomatik Aktif Et";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "Mevcut pil, ayarladığınız pil seviyesinden daha büyük olduğunda cihazı otomatik olarak normal duruma gelir.";
+"AUTOMATIC_TURN_ON_ENABLED" = "Otomatik Açmayı Kullan";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "Pil Seviyesi";
+
+"MINIMUM_BATTERY_PERCENTAGE" = "Minimum Pil Yüzdesi";
+"MINIMUM_BATTERY_PERCENTAGE_DESCRIPTION" = "Geçerli pil yüzdesi ayarlanan yüzdenizin altında olduğunda güç tasarrufu moduna girin. Varsayılan pil yüzdesi% 5'tir.";
+"MINIMUM_BATTERY_PERCENTAGE_VALUE" = "Pil Yüzdesi";
+
+"DELAY" = "Gecikme";
+"DELAY_DESCRIPTION" = "Cihaz ultra güç tasarrufu moduna girmek üzereyken gecikmeyi ayarlayın. Varsayılan 2 dakika.";
+
+"NOTE" = "Not: Geri sayım sırasında geçerli gecikmeyi iptal etmek için kilit düğmesine 3 kez (iOS13) veya kilit düğmesine uzun süre basabilirsiniz (iOS12).";
+"EXTRA_NOTE" = "Ekstra Not: Gecikmeyi elle iptal etmek, gecikmeyi 10 dakika erteleyecektir. Yalnızca Şarj Etme seçeneğini kullanıyorsanız, geri sayım sırasında şarj cihazının fişini çekmek, gecikmeyi 5 dakika boyunca otomatik olarak iptal eder.";

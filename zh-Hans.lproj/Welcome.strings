@@ -1,0 +1,25 @@
+/*
+    UltraPowerSavingMode
+    Language: Chinese
+    Translated by @yang_harapeko
+    Date: 05 April 2020
+*/
+
+"PURCHASE" = "购买 \(iOS 12 \& 13\)";
+"PURCHASE_DESCRIPTION" = "成功购买后，请使用下面的”激活许可”按钮进行激活";
+"PURCHASE_LICENSE" = "购买UltraPowerSavingMode许可";
+"PURCHASE_FAQS" = "付款常见问题";
+
+"COUPON_CODE" = "优惠券";
+"COUPON_CODE_DESCRIPTION" = "有优惠券？您可以使用此按钮兑换优惠。";
+"COUPON_CODE_REDEEM" = "兑换优惠券";
+
+"ACTIVATE_LICENSE" = "激活许可";
+"ACTIVATE_LICENSE_DESCRIPTION" = "您可以使用此按钮来还原或激活设备许可。";
+"ACTIVATE_LICENSE_BUTTON" = "激活许可";
+
+"SUPPORT" = "支持";
+"SUPPORT_HELP" = "查看帮助页面";
+"SUPPORT_SEND_AN_EMAIL" = "发送邮件";
+"SUPPORT_ASK_VIA_TWITTER" = "通过Twitter咨询";
+"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "复制EDID到剪切板";

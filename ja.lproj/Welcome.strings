@@ -1,0 +1,25 @@
+/*
+     UltraPowerSavingMode
+     Language: Japanese
+     Translated by @jayguar1206
+     Date: 03 April 2020
+ */
+
+ "PURCHASE" = "購入\（iOS 12 \＆13 \）";
+ "PURCHASE_DESCRIPTION" = "購入が成功したら、下の[ライセンスのアクティブ化]ボタンを使用してライセンスをアクティブ化してください。";
+ "PURCHASE_LICENSE" = "UltraPowerSavingModeライセンスを購入";
+ "PURCHASE_FAQS" = "支払いに関するよくある質問";
+
+ "COUPON_CODE" = "クーポンコード";
+ "COUPON_CODE_DESCRIPTION" = "クーポンコードを取得しましたか？このボタンを使用してクーポンを利用できます。";
+ "COUPON_CODE_REDEEM" = "クーポンコードを利用";
+
+ "ACTIVATE_LICENSE" = "ライセンスをアクティブ化";
+ "ACTIVATE_LICENSE_DESCRIPTION" = "このボタンを使用して、デバイスライセンスを復元またはアクティブ化できます。";
+ "ACTIVATE_LICENSE_BUTTON" = "ライセンスをアクティブ化";
+
+ "SUPPORT" = "サポート";
+ "SUPPORT_HELP" = "ヘルプページを表示";
+ "SUPPORT_SEND_AN_EMAIL" = "メールを送信";
+ "SUPPORT_ASK_VIA_TWITTER" = "Twitter経由で質問する";
+ "SUPPORT_COPY_EDID_TO_CLIPBOARD" = "EDIDをクリップボードにコピー";

@@ -1,0 +1,42 @@
+/*
+    UltraPowerSavingMode
+    Language: Indonesia
+    Translated by @prasadev_
+    Date: 03 April 2020
+*/
+
+"BATTERY_OPTIMIZER_TITLE" = "Pengoptimal Baterai Cerdas";
+
+"WHEN_TO_USE" = "Kapan untuk digunakan\?";
+"WHEN_TO_USE_DESCRIPTION" = "Pilih kapan Anda ingin secara otomatis memasuki mode hemat daya.";
+"WHEN_TO_USE_CHARGING" = "Pengisian daya";
+"WHEN_TO_USE_NOT_CHARGING" = "Tidak Mengisi Daya";
+"WHEN_TO_USE_BOTH" = "Keduanya";
+"WHEN_TO_USE_USAGE_EXPLANATION" = "Penjelasan Penggunaan";
+
+"NO_INTERNET" = "Tidak Ada Internet";
+"NO_INTERNET_DESCRIPTION" = "Aktifkan hanya ketika tidak ada koneksi internet.";
+"NO_INTERNET_ENABLED" = "Tidak ada koneksi internet";
+
+"MEDIA_PLAYING" = "Media Sedang Bermain";
+"MEDIA_PLAYING_DESCRIPTION" = "Hanya aktifkan saat ada musik atau media yang sedang diputar. Ini berguna jika Anda sering tertidur ketika musik diputar.";
+"MEDIA_PLAYING_ENABLED" = "Media Sedang Bermain";
+
+"SCREEN_OFF" = "Layar Mati";
+"SCREEN_OFF_DESCRIPTION" = "Hanya masuk mode hemat daya ultra saat layar mati.";
+"SCREEN_OFF_ENABLED" = "Hanya Layar Mati";
+
+"AUTOMATIC_TURN_ON" = "Penghidupan Otomatis";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "Secara otomatis kembalikan perangkat ke keadaan normal ketika baterai saat ini lebih besar dari level baterai yang Anda atur.";
+"AUTOMATIC_TURN_ON_ENABLED" = "Gunakan Penghidupan Otomatis";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "Level Baterai";
+
+"MINIMUM_BATTERY_PERCENTAGE" = "Persentase Baterai Minimum";
+"MINIMUM_BATTERY_PERCENTAGE_DESCRIPTION" = "Masuk ke mode hemat daya saat persentase baterai saat ini di bawah persentase yang Anda tentukan. Standarnya adalah 5%.";
+"MINIMUM_BATTERY_PERCENTAGE_VALUE" = "Persentase Baterai";
+
+"DELAY" = "Penunda";
+"DELAY_DESCRIPTION" = "Atur waktu tunda (dalam menit) saat perangkat akan memasuki mode hemat daya ultra. Standarnya 2 menit.";
+
+"NOTE" = "Catatan: Untuk membatalkan penundaan saat ini selama hitungan mundur, Anda dapat menekan tombol kunci / power 3 kali (iOS 13) atau menekan lama tombol kunci / power (iOS 12).";
+"EXTRA_NOTE" = "Catatan Ekstra: Membatalkan penundaan secara manual akan menunda penundaan selama 10 menit (jika kondisinya masih terpenuhi). Jika Anda hanya menggunakan opsi Pengisian Daya, mencabut pengisi daya selama hitungan mundur akan secara otomatis membatalkan penundaan selama 5 menit (jika kondisinya masih terpenuhi).";

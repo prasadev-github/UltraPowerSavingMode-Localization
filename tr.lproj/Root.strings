@@ -1,0 +1,86 @@
+/*
+    UltraPowerSavingMode
+    Dil: Türkçe
+    Çeviri: @enesogden
+    Tarih: 4 Nisan 2020
+*/
+
+"TWEAK_ENABLED" = "Aktif";
+"ENTER_ULTRAPOWERSAVINGMODE" = "UltraPowerSavingMode'a gir";
+
+"QUICK_INSTRUCTION" = "Hızlı Talimatlar";
+"QUICK_INSTRUCTION_DESCRIPTION" = "Genel olarak nasıl kullanılacağı hakkında bilgi.";
+"HOW_TO_USE" = "Nasıl Kullanılır?";
+
+"QUICK_STATS" = "Hızlı İstatistikler";
+"QUICK_STATS_DESCRIPTION" = "Ultra güç tasarrufu modundayken yararlı bilgilere hızlı bir şekilde göz atın.";
+"QUICK_STATS_ENABLED" = "Hızlı İstatistikler Etkin";
+"QUICK_STATS_OPTION" = "Hızlı İstatistik Ayarı";
+"QUICK_STATS_INSTRUCTION" = "Talimatlar";
+
+"TWEAK_MANAGER" = "Tweak Yöneticisi";
+"TWEAK_MANAGER_DESCRIPTION" = "Ultra güç tasarrufu moduna girerken kullanılmayan ince ayarları devre dışı bırakın (pil ömrünü koruyun).";
+"TWEAK_MANAGER_ENABLED" = "Tweak Yöneticisi Aktif";
+"TWEAK_MANAGER_SELECT_TWEAKS" = "Tweak Seç";
+
+"SMART_BATTERY_OPTIMIZER" = "Akıllı Pil Optimizasyonu";
+"SMART_BATTERY_OPTIMIZER_DESCRIPTION" = "Belirli cihaz koşullarına göre ultra güç tasarrufu moduna otomatik olarak girin.";
+"SMART_BATTERY_OPTIMIZER_ENABLED" = "Akıllı Pil Optimizasyonu Aktif";
+"SMART_BATTERY_OPTIMIZER_CONFIGURATION" = "Seçenekleri Yapılandır";
+
+"AUTOMATIC_TURN_ON" = "Otomatik Aktif Et";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "Mevcut pil, ayarladığınız pil seviyesinden daha büyük olduğunda cihazı otomatik olarak normal duruma getirin. Bu yalnızca güç tasarrufu moduna manuel olarak girdiğinizde çalışır.";
+"AUTOMATIC_TURN_ON_ENABLED" = "Otomatik Aktif Eti Kullan";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "Pil Seviyesi";
+
+"APPS_MANAGER" = "Uygulama Yöneticisi";
+"APPS_MANAGER_DESCRIPTION" = "Ultra güç tasarrufu moduna girerken görev yöneticisindeki tüm uygulamaları otomatik olarak kapat.";
+"APPS_MANAGER_ENABLED" = "Uygulamaları Kapat Etkin";
+
+"FLASHLIGHT" = "Fener";
+"FLASHLIGHT_DESCRIPTION" = "Pil tasarrufu yaparken el feneri kullanın. Lütfen unutmayın, uzun süre el feneri kullanmak pil ömrünüzü oldukça önemli ölçüde azaltabilir.";
+"FLASHLIGHT_ENABLED" = "Fener Aktif";
+
+"RESULT_NOTIFICATION" = "Sonuç Bildirimi";
+"RESULT_NOTIFICATION_DESCRIPTION" = "Güç tasarrufu sırasında ne kadar pil kullandığınızı / ne kadar pil kullandığınızı içeren bir bildirim uyarısı gösterin.";
+"RESULT_NOTIFICATION_ENABLED" = "Sonuç Bildirimi Etkin";
+"RESULT_NOTIFICATION_TYPE_ONE" = "Bildirim";
+"RESULT_NOTIFICATION_TYPE_TWO" = "Uyarmak";
+
+"ALARM_TIMER_MANAGER" = "Alarm / Zamanlayıcı Yöneticisi";
+"ALARM_TIMER_MANAGER_DESCRIPTION" = "Ultra güç tasarrufu modundayken alarmın veya zamanlayıcının çalmasına izin verin. Ses açma düğmesine basarak erteleyebilir ve ses azaltma düğmesine basarak durdurabilirsiniz.";
+"ALARM_ENABLED" = "Alarm Aktif";
+"TIMER_ENABLED" = "Zamanlayıcı Aktif";
+"ALARM_TIMER_MANAGER_CUSTOM_VOLUME" = "Ses Seviyesi";
+"ALARM_TIMER_MANAGER_VOLUME_VALUE" = "Ses Değeri";
+
+"ANIMATION_DURATION" = "Animasyon Süresi";
+"ANIMATION_DURATION_DESCRIPTION" = "Ultra güç tasarrufu moduna girerken animasyon süresini yapılandırın. Varsayılan 2.0, hemen ultra güç tasarrufu moduna girmek istiyorsanız 0 olarak ayarlayın.";
+"ANIMATION_DURATION_VALUE" = "Animasyon Süresi";
+
+"HAPTIC_FEEDBACK" = "Dokunsal Geri Bildirim (iPhone 6S ve daha yeniler)";
+"HAPTIC_FEEDBACK_DESCRIPTION" = "Cihaz ultra güç tasarrufu moduna başarılı bir şekilde girdiğinde veya çıktığı zaman dokunsal geri bildirim kullanarak cihazı titreştirin.";
+"HAPTIC_FEEDBACK_ENABLED" = "Geri Bildirim Aktif";
+"HAPTIC_FEEDBACK_TYPE" = "Geri Bildirim Tipi";
+"HAPTIC_FEEDBACK_TEST_HAPTIC_VIBRATION" = "Titreşim Test";
+"HAPTIC_FEEDBACK_TYPE_ONE" = "Tip 1";
+"HAPTIC_FEEDBACK_TYPE_TWO" = "Tip 2";
+"HAPTIC_FEEDBACK_TYPE_THREE" = "Tip 3";
+
+"VIBRATION_FEEDBACK" = "Titreşim Geri Bildirimi (iPhone 6 ve daha eskiler)";
+"VIBRATION_FEEDBACK_DESCRIPTION" = "Bu tür bir titreşim kullanmak istiyorsanız titreşim ayarınızın açık olduğundan emin olun.";
+"VIBRATION_FEEDBACK_ENABLED" = "Eski Titreşimi Kullan";
+"VIBRATION_FEEDBACK_TEST_LEGACY_VIBRATION" = "Titreşim Test";
+
+"OPTIONAL_INTEGRATION" = "İsteğe Bağlı Entegrasyon";
+"OPTIONAL_INTEGRATION_DESCRIPTION" = "Yerel / siri sesleriyle cihaza komut verin, güç tasarrufu modunu uzaktan etkinleştirin, hoparlör otomasyonu ve daha kullanışlı seçenekler!";
+"OPTIONAL_INTEGRATION_CHATSPEAKER" = "ChatSpeaker";
+
+"EXTRA" = "Ekstra";
+"EXTRA_DONATION" = "Bağış Yap";
+"EXTRA_PACKAGE_INFORMATION" = "Paket Bilgisi";
+
+"SUPPORT" = "Destek";
+"SUPPORT_SEND_AN_EMAIL" = "E-mail Gönder";
+"SUPPORT_ASK_VIA_TWITTER" = "Twitter'da sor";
+"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "EDID'yi Panoya Kopyala";
