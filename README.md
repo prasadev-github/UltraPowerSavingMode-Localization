@@ -9,8 +9,9 @@ Localization for UltraPowerSavingMode
 5. Arabic
 6. Spanish
 7. Chinese (Simplified)
-8. French
-9. Italian
+8. Chinese (Traditional)
+9. French
+10. Italian
 
 # How to translate to my local language?
 It's really simple! Here is how to do it:
