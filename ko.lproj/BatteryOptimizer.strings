@@ -1,0 +1,42 @@
+/*
+    UltraPowerSavingMode
+    Language: Korean
+    Translated by @NO_NAME0410
+    Date: 20 June 2020
+*/
+
+"BATTERY_OPTIMIZER_TITLE" = "스마트 배터리 옵티마이저";
+
+"WHEN_TO_USE" = "언제 사용하나요？";
+"WHEN_TO_USE_DESCRIPTION" = "자동으로 초절전모드에 들어가는 시간을 선택해주세요.";
+"WHEN_TO_USE_CHARGING" = "충전 중";
+"WHEN_TO_USE_NOT_CHARGING" = "방전 중";
+"WHEN_TO_USE_BOTH" = "둘 다";
+"WHEN_TO_USE_USAGE_EXPLANATION" = "사용 설명";
+
+"NO_INTERNET" = "네트워크 없음";
+"NO_INTERNET_DESCRIPTION" = "인터넷에 연결되어 있지 않을 때만 활성화 합니다.";
+"NO_INTERNET_ENABLED" = "네트워크 연결 없음";
+
+"MEDIA_PLAYING" = "미디어 재생 중";
+"MEDIA_PLAYING_DESCRIPTION" = "음악 또는 동영상이 재생 중 일 경우에만 활성화합니다. 이것은 음악을 재생하면서 잘 때 유용합니다.";
+"MEDIA_PLAYING_ENABLED" = "미디어 재생 중";
+
+"SCREEN_OFF" = "화면이 꺼졌을 때";
+"SCREEN_OFF_DESCRIPTION" = "화면이 꺼져있을 때만 초 절전모드에 진입합니다.";
+"SCREEN_OFF_ENABLED" = "화면 꺼짐";
+
+"AUTOMATIC_TURN_ON" = "자동 실행";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "설정한 배터리 잔량보다 현재 배터리 잔량이 더 높을 때 정상 상태로 전환합니다.";
+"AUTOMATIC_TURN_ON_ENABLED" = "자동 실행 사용";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "배터리 잔량";
+
+"MINIMUM_BATTERY_PERCENTAGE" = "최소 배터리 잔량";
+"MINIMUM_BATTERY_PERCENTAGE_DESCRIPTION" = "설정한 배터리 잔량보다 현재 배터리 잔량이 더 낮을 때 초절전모드로 전환합니다. 기본값은 5%입니다.";
+"MINIMUM_BATTERY_PERCENTAGE_VALUE" = "배터리 잔량";
+
+"DELAY" = "지연";
+"DELAY_DESCRIPTION" = "초절전모드로 전환되려 할 때 지연 시간을 설정하세요. 기본값은 2분입니다.";
+
+"NOTE" = "참고 : 딜레이 카운트다운 중일 때 취소하려면 잠금 버튼을 3번 누르거나 (iOS 13) 잠금 버튼을 길게 누르세요(iOS 12).";
+"EXTRA_NOTE" = "추가 : 수동으로 지연을 취소할 시 지연이 10분간 미뤄집니다. (여전히 조건이 충족될 경우). 충전 옵션만 사용하는 경우 카운트다운 중 충전기를 제거하면 지연이 자동적으로 5분간 취소됩니다 (여전히 조건이 충족될 경우).";
