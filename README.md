@@ -12,6 +12,7 @@ Localization for UltraPowerSavingMode
 8. Chinese (Traditional)
 9. French
 10. Italian
+11. Korean
 
 # How to translate to my local language?
 It's really simple! Here is how to do it:
