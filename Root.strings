@@ -1,0 +1,86 @@
+/*
+    UltraPowerSavingMode
+    Language: Korean
+    Translated by @NO_NAME0410
+    Date: 20 June 2020
+*/
+
+"TWEAK_ENABLED" = "트윅 활성화";
+"ENTER_ULTRAPOWERSAVINGMODE" = "초절전모드로 진입";
+
+"QUICK_INSTRUCTION" = "빠른 설명";
+"QUICK_INSTRUCTION_DESCRIPTION" = "기본적인 트윅 사용법에 대한 설명";
+"HOW_TO_USE" = "어떻게 사용합니까?";
+
+"QUICK_STATS" = "빠른 통계";
+"QUICK_STATS_DESCRIPTION" = "초절전모드 동안 유용한 정보를 쉽게 확인할 수 있습니다.";
+"QUICK_STATS_ENABLED" = "빠른 통계 활성화";
+"QUICK_STATS_OPTION" = "빠른 통계 옵션";
+"QUICK_STATS_INSTRUCTION" = "빠른 통계 설명";
+
+"TWEAK_MANAGER" = "트윅 메니저";
+"TWEAK_MANAGER_DESCRIPTION" = "초절정모드 동안 비활성화 할 트윅 (배터리 절약)을 선택할 수 있습니다.";
+"TWEAK_MANAGER_ENABLED" = "트윅 메니저 활성화";
+"TWEAK_MANAGER_SELECT_TWEAKS" = "트윅 선택";
+
+"SMART_BATTERY_OPTIMIZER" = "스마트 배터리 옵티마이저";
+"SMART_BATTERY_OPTIMIZER_DESCRIPTION" = "기기 상태에 따라 자동적으로 초절전모드에 진입합니다.";
+"SMART_BATTERY_OPTIMIZER_ENABLED" = "배터리 옵티마이저 활성화";
+"SMART_BATTERY_OPTIMIZER_CONFIGURATION" = "옵션 설정";
+
+"AUTOMATIC_TURN_ON" = "자동 전환";
+"AUTOMATIC_TURN_ON_DESCRIPTION" = "설정한 배터리 잔량보다 현재 배터리 잔량이 더 높을 때 정상 상태로 전환합니다. 수동으로 초절전모드에 진입했을 때만 작동합니다 (스마트 배터리 옵티마이저 없이).";
+"AUTOMATIC_TURN_ON_ENABLED" = "자동 전환 사용";
+"AUTOMATIC_TURN_ON_BATTERY_LEVEL" = "배터리 잔량";
+
+"APPS_MANAGER" = "앱 메니저";
+"APPS_MANAGER_DESCRIPTION" = "초절전모드에 진입하면 켜져 있는 모든 앱이 종료됩니다.";
+"APPS_MANAGER_ENABLED" = "앱 끄기 활성화";
+
+"FLASHLIGHT" = "손전등";
+"FLASHLIGHT_DESCRIPTION" = "배터리 전력을 절약하면서 손전등을 사용합니다. 손전등을 오랜 시간 사용하는 것은 배터리 수명을 큰 폭으로 깎을 수 있으니 주의하세요.";
+"FLASHLIGHT_ENABLED" = "Flashlight Enabled";
+
+"RESULT_NOTIFICATION" = "결과 알림";
+"RESULT_NOTIFICATION_DESCRIPTION" = "절전모드 중에 배터리 사용시간, 충전시간을 포함한 알림을 표시합니다.";
+"RESULT_NOTIFICATION_ENABLED" = "결과 알림 활성화";
+"RESULT_NOTIFICATION_TYPE_ONE" = "알림";
+"RESULT_NOTIFICATION_TYPE_TWO" = "울리기";
+
+"ALARM_TIMER_MANAGER" = "알람 / 타이머 매니저";
+"ALARM_TIMER_MANAGER_DESCRIPTION" = "초절전모드에서 알람 또는 타이머를 울리게 합니다. 볼륨 업 버튼으로 미룰 수도, 볼륨 다운 버튼으로 중지할 수도 있습니다.";
+"ALARM_ENABLED" = "알람 활성화";
+"TIMER_ENABLED" = "타이머 활성화";
+"ALARM_TIMER_MANAGER_CUSTOM_VOLUME" = "커스텀 볼륨";
+"ALARM_TIMER_MANAGER_VOLUME_VALUE" = "볼륨값";
+
+"ANIMATION_DURATION" = "애니메이션 주기";
+"ANIMATION_DURATION_DESCRIPTION" = "초절전모드에서의 애니메이션 주기를 설정합니다. 기본값 2.0, 0으로 설정시 초절전모드에 바로 진입합니다.";
+"ANIMATION_DURATION_VALUE" = "애니메이션 주기";
+
+"HAPTIC_FEEDBACK" = "햅틱 피드백 (iPhone 6S 이상)";
+"HAPTIC_FEEDBACK_DESCRIPTION" = "초절전모드에 진입하거나 나올 때 햅틱 피드백을 울립니다.";
+"HAPTIC_FEEDBACK_ENABLED" = "햅틱 활성화";
+"HAPTIC_FEEDBACK_TYPE" = "햅틱 타입";
+"HAPTIC_FEEDBACK_TEST_HAPTIC_VIBRATION" = "햅틱 진동 테스트";
+"HAPTIC_FEEDBACK_TYPE_ONE" = "타입 1";
+"HAPTIC_FEEDBACK_TYPE_TWO" = "타입 2";
+"HAPTIC_FEEDBACK_TYPE_THREE" = "타입 3";
+
+"VIBRATION_FEEDBACK" = "진동 피드백 (iPhone 6 이하)";
+"VIBRATION_FEEDBACK_DESCRIPTION" = "이 기기가 햅틱 피드백을 지원하지 않거나 진동을 선호할 때만 활성화하세요. 또한 진동 설정이 켜져있는걸 확인하세요.";
+"VIBRATION_FEEDBACK_ENABLED" = "진동 활성화";
+"VIBRATION_FEEDBACK_TEST_LEGACY_VIBRATION" = "진동 테스트";
+
+"OPTIONAL_INTEGRATION" = "옵션 통합";
+"OPTIONAL_INTEGRATION_DESCRIPTION" = "로컬/Siri 음성으로 디바이스 상태를 불러와 원격으로 초절전모드를 활성화 하세요.";
+"OPTIONAL_INTEGRATION_CHATSPEAKER" = "ChatSpeaker 통합";
+
+"EXTRA" = "참고";
+"EXTRA_DONATION" = "기부";
+"EXTRA_PACKAGE_INFORMATION" = "패키지 정보";
+
+"SUPPORT" = "지원";
+"SUPPORT_SEND_AN_EMAIL" = "이메일 보내기";
+"SUPPORT_ASK_VIA_TWITTER" = "트위터로 물어보기";
+"SUPPORT_COPY_EDID_TO_CLIPBOARD" = "클립보드에 EDID 복사";

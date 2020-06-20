@@ -1,0 +1,40 @@
+/*
+    UltraPowerSavingMode
+    Language: Korean
+    Translated by @NO_NAME0410
+    Date: 20 June 2020
+*/
+
+"QUICK_STATS_TITLE" = "빠른 통계";
+
+"DATA_UPDATE" = "데이터 갱신";
+"DATA_UPDATE_DESCRIPTION" = "정적 : 화면에 표시되는 데이터가 매초 갱신되지 않습니다 (배터리 사용량 적음). 실시간 : 데이터를 매초 갱신합니다.";
+"DATA_UPDATE_STATIC" = "정적";
+"DATA_UPDATE_REALTIME" = "실시간";
+
+"QUICK_STATS_DURATION" = "빠른 통계 주기";
+"QUICK_STATS_DURATION_DESCRIPTION" = "초절전모드 중 빠른 통계 데이터를 표시할 주기를 선택합니다. 기본값은 10초입니다.";
+"QUICK_STATS_DURATION_VALUE" = "애니메이션 주기";
+
+"NEXT_ALARM" = "다음 알람";
+"NEXT_ALARM_DESCRIPTION" = "현재 시각 아래에 다음 알람을 표시합니다 (가능할 경우).";
+"NEXT_ALARM_ENABLED" = "다음 알람 활성화";
+
+"CALENDAR_UPCOMING_EVENTS" = "캘린더의 예정된 이벤트";
+"CALENDAR_UPCOMING_EVENTS_DESCRIPTION" = "이벤트를 확인하는 최대 일수를 선택하세요.";
+"CALENDAR_UPCOMING_EVENTS_ENABLED" = "캘린더의 예정된 이벤트 활성화";
+"CALENDAR_UPCOMING_EVENTS_3DAYS" = "3일";
+"CALENDAR_UPCOMING_EVENTS_7DAYS" = "7일";
+"CALENDAR_UPCOMING_EVENTS_14DAYS" = "14일";
+"CALENDAR_UPCOMING_EVENTS_1MONTH" = "1달";
+
+"BATTERY_TEMPERATURE" = "배터리 온도";
+"BATTERY_TEMPERATURE_DESCRIPTION" = "원하는 배터리의 온도를 선택하세요.";
+"BATTERY_TEMPERATURE_CELCIUS" = "섭씨";
+"BATTERY_TEMPERATURE_FAHRENHEIT" = "화씨";
+
+"BATTERY_ESTIMATION" = "배터리 추정 (실험적)";
+"BATTERY_ESTIMATION_DESCRIPTION" = "완충까지의 배터리 충전 시간과 방전까지의 방전 시간을 추정합니다. 참고 : 많은 데이터를 얻을수록 더 정확해집니다.";
+"BATTERY_ESTIMATION_ESTIMATION" = "추정";
+"BATTERY_ESTIMATION_EXACT_TIME" = "정확한 시간";
+"BATTERY_ESTIMATION_BOTH" = "둘 다";
